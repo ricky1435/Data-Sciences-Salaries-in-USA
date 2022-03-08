@@ -9,11 +9,6 @@
 **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
 **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
 
-## Tableau Dashboard 
-https://public.tableau.com/app/profile/ruthvik.pvs/viz/Glassdoor_Jobs_Dashboard/Dashboard2
-
-![alt text](https://github.com/ricky1435/Glassdoor-Jobs-2018-/blob/main/Dashboard%202.png "Dashboard")
-
 ## Data Cleaning
 * Removed rows without any salary column
 * Removed unnecessary columns
@@ -22,3 +17,8 @@ https://public.tableau.com/app/profile/ruthvik.pvs/viz/Glassdoor_Jobs_Dashboard/
 * Renamed the categories in the Title feature to Data Scientist, Data Analyst, Data Engineer, Research
 * Made a new column for the seniority of position.
 * Column for Competitor Size
+
+## Tableau Dashboard 
+https://public.tableau.com/app/profile/ruthvik.pvs/viz/Glassdoor_Jobs_Dashboard/Dashboard2
+
+![alt text](https://github.com/ricky1435/Glassdoor-Jobs-2018-/blob/main/Dashboard%202.png "Dashboard")
