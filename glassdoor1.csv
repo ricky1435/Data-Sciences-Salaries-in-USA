@@ -1,0 +1,743 @@
+title,salary,,Rating,company,,,compsize,Founded,ownership,,,Revenue,Competitors,hourly,employer_provided_salary,min_salary,max_salary,average_salary,state,same_state,senior,research_positions,engineers,scientist,manager,analyst,Seniority,below_above_salaries
+data scientist,53-91 ,,3.8,Tecolote Research,,,501 to 1000 ,26-05-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,53000,91000,72000,NM,0,0,0,0,1,0,0,none,below average
+data scientist,63-112 ,,3.4,University of Maryland Medical System,,,10000+ ,06-06-1905,Other Organization,,,$2 to $5 billion (USD),0,0,0,63000,112000,87500,MD,0,0,0,0,1,0,0,none,below average
+data scientist,80-90 ,,4.8,KnowBe4,,,501 to 1000 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,80000,90000,85000,FL,1,0,0,0,1,0,0,none,below average
+data scientist,56-97 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,56000,97000,76500,WA,1,0,0,0,1,0,0,none,below average
+data scientist,86-143 ,,2.9,Affinity Solutions,,,51 to 200 ,20-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,86000,143000,114500,NY,1,0,0,0,1,0,0,none,above average
+data scientist,71-119 ,,3.4,CyrusOne,,,201 to 500 ,22-06-1905,Company - Public,,,$1 to $2 billion (USD),3,0,0,71000,119000,95000,TX,1,0,0,0,1,0,0,none,below average
+data scientist,54-93 ,,4.1,ClearOne Advantage,,,501 to 1000 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,54000,93000,73500,MD,1,0,0,0,1,0,0,none,below average
+data scientist,86-142 ,,3.8,Logic20/20,,,201 to 500 ,27-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,86000,142000,114000,CA,0,0,0,0,1,0,0,none,above average
+research,38-84 ,,3.3,Rochester Regional Health,,,10000+ ,06-07-1905,Hospital,,,$500 million to $1 billion (USD),0,0,0,38000,84000,61000,NY,1,0,1,0,0,0,0,none,below average
+data scientist,120-160 ,,4.6,<intent>,,,51 to 200 ,01-07-1905,Company - Private,,,$100 to $500 million (USD),2,0,0,120000,160000,140000,NY,1,0,0,0,1,0,0,none,above average
+data scientist,126-201 ,,3.5,Wish,,,501 to 1000 ,03-07-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,126000,201000,163500,CA,0,0,0,0,1,0,0,none,above average
+data scientist,64-106 ,,4.1,ManTech,,,5001 to 10000 ,21-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,64000,106000,85000,VA,0,0,0,0,1,0,0,none,below average
+data scientist,106-172 ,,3.2,Walmart,,,10000+ ,15-05-1905,Company - Public,,,$10+ billion (USD),3,0,0,106000,172000,139000,TX,0,0,0,0,1,0,0,none,above average
+data analyst,46-85 ,,4.1,Yesler,,,201 to 500 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,46000,85000,65500,WA,1,0,0,0,0,0,1,none,below average
+data scientist,83-144 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,83000,144000,113500,MA,0,0,0,0,1,0,0,none,above average
+data engineer,102-190 ,,3.6,Audible,,,1001 to 5000 ,17-06-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,0,0,0,102000,190000,146000,NJ,1,0,0,1,0,0,0,none,above average
+other positions,67-137 ,,3.9,Blueprint Medicines,,,51 to 200 ,03-07-1905,Company - Public,,,$1 to $5 million (USD),3,0,0,67000,137000,102000,MA,1,0,0,0,0,0,0,none,above average
+data scientist,118-189 ,,4.3,h2o.ai,,,201 to 500 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,118000,189000,153500,CA,1,0,0,0,1,0,0,none,above average
+data scientist,110-175 ,,4.2,Nuna,,,51 to 200 ,02-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,110000,175000,142500,CA,1,0,0,0,1,0,0,none,above average
+data scientist,64-111 ,,4,Pinnacol Assurance,,,501 to 1000 ,29-03-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),0,0,0,64000,111000,87500,CO,1,0,0,0,1,0,0,none,below average
+data scientist,81-130 ,,3.2,Porch,,,201 to 500 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,81000,130000,105500,WA,1,0,0,0,1,0,0,none,above average
+data scientist,73-119 ,,3.9,Health IQ,,,201 to 500 ,05-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,73000,119000,96000,TX,0,1,0,0,1,0,0,none,below average
+data scientist,86-139 ,,3.8,Truckstop.com,,,501 to 1000 ,17-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,86000,139000,112500,IL,0,0,0,0,1,0,0,none,above average
+data scientist,63-105 ,,4.3,SMC 3,,,51 to 200 ,18-04-1905,Nonprofit Organization,,,$10 to $25 million (USD),0,0,0,63000,105000,84000,KY,0,0,0,0,1,0,0,none,below average
+data scientist,109-177 ,,4,Novetta,,,501 to 1000 ,04-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,109000,177000,143000,VA,0,0,0,0,1,0,0,none,above average
+data scientist,63-110 ,,4,Pfizer,,,10000+ ,22-01-1905,Company - Public,,,$10+ billion (USD),0,0,0,63000,110000,86500,MA,0,0,0,0,1,0,0,none,below average
+data scientist,75-124 ,,3.5,First Tech Federal Credit Union,,,1001 to 5000 ,05-05-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,75000,124000,99500,OR,0,0,0,0,1,0,0,none,below average
+data analyst,34-61 ,,3.7,The Hanover Insurance Group,,,5001 to 10000 ,25-01-1905,Company - Public,,,$5 to $10 billion (USD),0,0,0,34000,61000,47500,MA,1,0,0,0,0,0,1,none,below average
+data scientist,63-105 ,,4,Pfizer,,,10000+ ,22-01-1905,Company - Public,,,$10+ billion (USD),0,0,0,63000,105000,84000,CT,0,0,0,0,1,0,0,none,below average
+data scientist,80-90 ,,4.8,KnowBe4,,,501 to 1000 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,80000,90000,85000,FL,1,0,0,0,1,0,0,none,below average
+data scientist,56-97 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,56000,97000,76500,WA,1,0,0,0,1,0,0,none,below average
+data scientist,72-120 ,,3.6,Amrock,,,1001 to 5000 ,19-06-1905,Company - Private,,,$500 million to $1 billion (USD),0,0,0,72000,120000,96000,MI,1,0,0,0,1,0,0,none,below average
+data scientist,86-143 ,,3.8,Novartis,,,10000+ ,18-06-1905,Company - Public,,,$10+ billion (USD),0,0,0,86000,143000,114500,MA,0,0,0,0,1,0,0,none,above average
+data scientist,93-149 ,,3.8,Juniper Networks,,,5001 to 10000 ,18-06-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,93000,149000,121000,CA,1,0,0,0,1,0,0,none,above average
+data scientist,85-140 ,,4.7,New England Biolabs,,,201 to 500 ,27-05-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,85000,140000,112500,MA,1,0,0,0,1,0,0,none,above average
+data analyst,77-135 ,,4.2,Clarity Insights,,,201 to 500 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,77000,135000,106000,CA,0,0,0,0,0,0,1,none,above average
+data scientist,82-132 ,,3.5,Esri,,,1001 to 5000 ,22-05-1905,Company - Private,,,$1 to $2 billion (USD),1,0,0,82000,132000,107000,CA,1,0,0,0,1,0,0,none,above average
+data scientist,83-137 ,,4.7,Systems & Technology Research,,,201 to 500 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,83000,137000,110000,MA,1,0,0,0,1,0,0,none,above average
+data scientist,115-180 ,,3.5,Sartorius,,,5001 to 10000 ,12-02-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,115000,180000,147500,CA,0,1,0,0,1,0,0,none,above average
+data engineer,74-138 ,,3.5,Lancer Insurance,,,201 to 500 ,07-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,74000,138000,106000,NY,1,0,0,1,0,0,0,none,above average
+data analyst,64-112 ,,4.2,Sauce Labs,,,201 to 500 ,30-06-1905,Company - Private,,,$50 to $100 million (USD),3,0,0,64000,112000,88000,CA,1,0,0,0,0,0,1,none,below average
+data engineer,68-129 ,,3.6,Persivia,,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,Less than $1 million (USD),0,0,0,68000,129000,98500,MA,0,0,0,1,0,0,0,none,below average
+data scientist,110-175 ,,4.2,Nuna,,,51 to 200 ,02-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,110000,175000,142500,CA,1,0,0,0,1,0,0,none,above average
+other positions,52-113 ,,3.4,Edgewell Personal Care,,,5001 to 10000 ,07-07-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,52000,113000,82500,NJ,0,0,0,0,0,0,0,none,below average
+data scientist,110-150,,4.3,Equity Residential,,,1001 to 5000 ,15-06-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,110000,150000,130000,IL,1,1,0,0,1,0,0,none,above average
+data scientist,150-160,,5,BPA Services,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,1,150000,160000,155000,DC,0,0,0,0,1,0,0,none,above average
+data scientist,158-211 ,,3.7,Visa Inc.,,,10000+ ,11-05-1905,Company - Public,,,$10+ billion (USD),3,0,0,158000,211000,184500,WA,0,0,0,0,1,0,0,none,above average
+data analyst,20-39 ,,3.1,Intrado,,,5001 to 10000 ,08-06-1905,Company - Private,,,$2 to $5 billion (USD),0,0,0,20000,39000,29500,CO,0,0,0,0,0,0,1,none,below average
+other positions,56-117 ,,4.7,Centauri,,,501 to 1000 ,21-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,56000,117000,86500,OH,0,0,0,0,0,0,0,none,below average
+data scientist,63-99 ,,3.7,Caterpillar,,,10000+ ,08-04-1905,Company - Public,,,$10+ billion (USD),3,0,0,63000,99000,81000,IL,0,0,0,0,1,0,0,none,below average
+data scientist,68-114 ,,3.8,Zimmerman Advertising,,,501 to 1000 ,06-06-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,0,0,0,68000,114000,91000,FL,1,0,0,0,1,0,0,none,below average
+data scientist,86-143 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,86000,143000,114500,MA,1,0,0,0,1,0,0,none,above average
+data analyst,41-95 ,,4.6,"Torch Technologies, Inc.",,,1001 to 5000 ,24-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,41000,95000,68000,AL,1,0,0,0,0,0,1,none,below average
+data scientist,86-144 ,,3.7,Swiss Re,,,10000+ ,05-02-1905,Company - Public,,,$10+ billion (USD),3,0,0,86000,144000,115000,NY,0,0,0,0,1,0,0,none,above average
+data scientist,80-139 ,,3.7,Northrop Grumman,,,10000+ ,22-04-1905,Company - Public,,,$10+ billion (USD),0,0,0,80000,139000,109500,CA,0,0,0,0,1,0,0,none,above average
+data scientist,56-95 ,,3.5,Sartorius,,,5001 to 10000 ,12-02-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,56000,95000,75500,NM,0,0,0,0,1,0,0,none,below average
+data scientist,120-189 ,,4.1,Netskope,,,501 to 1000 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,120000,189000,154500,CA,0,0,0,0,1,0,0,none,above average
+data scientist,111-176 ,,4.7,1904labs,,,51 to 200 ,08-07-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,111000,176000,143500,MO,1,0,0,0,1,0,0,none,above average
+data scientist,54-93 ,,4.1,ClearOne Advantage,,,501 to 1000 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,54000,93000,73500,MD,1,0,0,0,1,0,0,none,below average
+data scientist,71-119 ,,3.4,CyrusOne,,,201 to 500 ,22-06-1905,Company - Public,,,$1 to $2 billion (USD),3,0,0,71000,119000,95000,TX,1,0,0,0,1,0,0,none,below average
+data scientist,82-132 ,,4.4,The David J. Joseph Company,,,201 to 500 ,27-02-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,0,0,0,82000,132000,107000,OH,1,1,0,0,1,0,0,none,above average
+data scientist,84-146 ,,4.3,USEReady,,,201 to 500 ,03-07-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,84000,146000,115000,NY,1,0,0,0,1,0,0,none,above average
+data scientist,107-172 ,,3.8,Bill.com,,,501 to 1000 ,28-06-1905,Company - Public,,,$50 to $100 million (USD),0,0,0,107000,172000,139500,CA,1,1,0,0,1,0,0,none,above average
+data scientist,49-85 ,,3.8,Pacific Northwest National Laboratory,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,49000,85000,67000,WA,1,0,0,0,1,0,0,none,below average
+data scientist,61-109 ,,3.8,DICK'S Sporting Goods - Corporate,,,10000+ ,01-05-1905,Company - Public,,,$5 to $10 billion (USD),3,0,0,61000,109000,85000,PA,1,0,0,0,1,0,0,none,below average
+data scientist,88-148 ,,2.8,Berg Health,,,51 to 200 ,28-06-1905,Company - Private,,,$1 to $5 million (USD),0,0,0,88000,148000,118000,MA,1,0,0,0,1,0,0,none,above average
+data scientist,60-99 ,,4.7,Oversight Systems,,,51 to 200 ,25-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,60000,99000,79500,GA,1,0,0,0,1,0,0,none,below average
+data scientist,41-72 ,,3.1,C Space,,,201 to 500 ,21-06-1905,Company - Public,,,$100 to $500 million (USD),4,0,0,41000,72000,56500,MA,1,0,1,0,1,0,0,none,below average
+data scientist,96-161 ,,3.2,"Numeric, LLC",,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,96000,161000,128500,PA,0,0,0,0,1,0,0,none,above average
+other positions,65-130 ,,4,HP Inc.,,,10000+ ,22-04-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,65000,130000,97500,WA,0,0,0,0,0,0,0,none,below average
+other positions,52-81 ,,4.4,SpringML,,,1 to 50 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,52000,81000,66500,IN,0,0,0,0,0,0,0,none,below average
+other positions,139-220 ,,3.6,Grainger,,,10000+ ,10-04-1905,Company - Public,,,$10+ billion (USD),0,0,0,139000,220000,179500,IL,1,0,0,0,0,0,0,none,above average
+other positions,50-102 ,,2.7,EAG Laboratories,,,501 to 1000 ,31-05-1905,Subsidiary or Business Segment,,,$50 to $100 million (USD),0,0,0,50000,102000,76000,MO,0,0,0,0,0,0,0,none,below average
+data scientist,85-139 ,,3.9,The Buffalo Group,,,501 to 1000 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,85000,139000,112000,VA,0,0,0,0,1,0,0,senior,above average
+data scientist,74-122 ,,3.1,Carmeuse,,,1001 to 5000 ,02-02-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,74000,122000,98000,PA,0,0,0,0,1,0,0,none,below average
+data scientist,99-157 ,,4,HP Inc.,,,10000+ ,22-04-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,99000,157000,128000,WA,0,1,0,0,1,0,0,senior,above average
+data scientist,79-222 ,,4.3,h2o.ai,,,201 to 500 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,79000,222000,150500,CA,1,0,0,0,1,0,0,none,above average
+research,57-118 ,,1.9,GNS Healthcare,,,51 to 200 ,22-06-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,57000,118000,87500,MA,1,0,1,0,0,0,0,none,below average
+data scientist,83-137 ,,3.3,Peraton,,,1001 to 5000 ,09-07-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,83000,137000,110000,VA,0,0,0,0,1,0,0,none,above average
+data scientist,86-141 ,,4.4,Pactera,,,10000+ ,17-06-1905,Company - Private,,,$500 million to $1 billion (USD),3,0,0,86000,141000,113500,CA,0,0,0,0,1,0,0,none,above average
+data scientist,94-154 ,,3.9,Nurx,,,51 to 200 ,08-07-1905,Company - Private,,,$1 to $5 million (USD),0,0,0,94000,154000,124000,CA,1,0,0,0,1,0,0,none,above average
+data analyst,37-76 ,,4.7,webfx.com,,,201 to 500 ,19-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,37000,76000,56500,PA,1,0,0,0,0,0,1,junior,below average
+data scientist,100-160 ,,4.5,Johns Hopkins University Applied Physics Laboratory,,,5001 to 10000 ,25-04-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,100000,160000,130000,MD,1,0,0,0,1,0,0,none,above average
+data analyst,55-100 ,,4.3,Productive Edge,,,51 to 200 ,30-06-1905,Company - Private,,,$10 to $25 million (USD),3,0,0,55000,100000,77500,IL,1,0,0,0,0,0,1,none,below average
+data engineer,60-114 ,,4,Excella Consulting,,,201 to 500 ,24-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,60000,114000,87000,VA,1,0,0,1,0,0,0,none,below average
+data analyst,39-68 ,,4.4,Gensco,,,501 to 1000 ,01-05-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,39000,68000,53500,WA,1,0,0,0,0,0,1,none,below average
+data scientist,106-172 ,,3.2,Walmart,,,10000+ ,15-05-1905,Company - Public,,,$10+ billion (USD),3,0,0,106000,172000,139000,TX,0,0,0,0,1,0,0,none,above average
+data scientist,86-142 ,,3.8,Logic20/20,,,201 to 500 ,27-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,86000,142000,114000,CA,0,0,0,0,1,0,0,none,above average
+data scientist,64-107 ,,4.2,goTRG,,,501 to 1000 ,30-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,64000,107000,85500,FL,1,0,0,0,1,0,0,none,below average
+other positions,31-65 ,,4.5,NMR Consulting,,,51 to 200 ,18-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,31000,65000,48000,AL,0,0,0,0,0,0,0,none,below average
+data analyst,34-62 ,,3.5,iSeatz,,,51 to 200 ,21-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,34000,62000,48000,LA,1,0,0,0,0,0,1,none,below average
+other positions,117-231 ,,3.5,Nektar Therapeutics,,,201 to 500 ,12-06-1905,Company - Public,,,$100 to $500 million (USD),3,0,0,117000,231000,174000,CA,1,1,0,0,0,0,0,senior,above average
+data scientist,64-106 ,,3.9,TransUnion,,,5001 to 10000 ,21-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,64000,106000,85000,GA,0,0,0,0,1,0,0,none,below average
+other positions,79-134 ,,4.7,IT Concepts,,,51 to 200 ,25-06-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,79000,134000,106500,MD,0,0,0,0,0,0,0,none,above average
+data analyst,52-93 ,,4.2,Scientific Research Corporation,,,1001 to 5000 ,10-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,52000,93000,72500,MD,0,0,0,0,0,0,1,none,below average
+other positions,55-116 ,,3.4,General Dynamics Information Technology,,,10000+ ,18-06-1905,Subsidiary or Business Segment,,,$10+ billion (USD),3,0,0,55000,116000,85500,MD,0,0,0,0,0,0,0,none,below average
+data scientist,72-123 ,,3.2,MITRE,,,5001 to 10000 ,11-05-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,72000,123000,97500,VA,0,0,0,0,1,0,0,none,below average
+data scientist,74-124 ,,3.9,The Buffalo Group,,,501 to 1000 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,74000,124000,99000,VA,0,0,0,0,1,0,0,none,below average
+data analyst,40-73 ,,3.1,DentaQuest,,,1001 to 5000 ,23-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,40000,73000,56500,WI,0,0,0,0,0,0,1,none,below average
+data scientist,102-164 ,,4.1,Redjack,,,1 to 50 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,102000,164000,133000,MD,1,0,0,0,1,0,0,none,above average
+data scientist,89-153 ,,3.8,7Park Data,,,51 to 200 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,89000,153000,121000,NY,1,0,0,0,1,0,0,none,above average
+data scientist,61-110 ,,4.7,Rapid Response Monitoring,,,501 to 1000 ,14-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,61000,110000,85500,NY,1,0,0,0,1,0,0,none,below average
+data scientist,65-110 ,,4.3,Trilogy Ed,,,1001 to 5000 ,07-07-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,3,0,0,65000,110000,87500,TX,0,0,0,0,1,0,0,none,below average
+data scientist,200-275,,4.2,Gallup,,,1001 to 5000 ,18-04-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,200000,275000,237500,DC,1,1,0,0,1,0,0,none,above average
+data engineer,68-123 ,,3.9,CapTech,,,1001 to 5000 ,19-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,68000,123000,95500,NC,0,0,0,1,0,0,0,none,below average
+data scientist,80-129 ,,3.3,American Axle & Manufacturing,,,10000+ ,16-06-1905,Company - Public,,,$5 to $10 billion (USD),0,0,0,80000,129000,104500,MI,0,1,0,0,1,0,0,none,above average
+data analyst,41-72 ,,4.7,CentralReach,,,201 to 500 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,41000,72000,56500,NJ,0,0,0,0,0,0,1,none,below average
+data analyst,39-71 ,,4.3,Integrate,,,201 to 500 ,02-07-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,39000,71000,55000,AZ,1,1,0,0,0,0,1,none,below average
+research,38-85 ,,2.9,Boys Town Hospital,,,1001 to 5000 ,30-05-1905,Hospital,,,Unknown / Non-Applicable,3,0,0,38000,85000,61500,NE,1,0,1,0,0,0,0,none,below average
+data scientist,121-193 ,,4.5,Demandbase,,,201 to 500 ,28-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,121000,193000,157000,CA,1,0,0,0,1,0,0,none,above average
+data engineer,54-102 ,,3.4,Sapphire Digital,,,201 to 500 ,11-07-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,54000,102000,78000,NJ,1,0,0,1,0,0,0,none,below average
+data scientist,83-144 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,83000,144000,113500,MA,0,0,0,0,1,0,0,none,above average
+data scientist,120-160 ,,4.6,<intent>,,,51 to 200 ,01-07-1905,Company - Private,,,$100 to $500 million (USD),2,0,0,120000,160000,140000,NY,1,0,0,0,1,0,0,none,above average
+data scientist,102-163 ,,3.2,Formation,,,51 to 200 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,102000,163000,132500,CA,1,0,0,0,1,0,0,none,above average
+data engineer,76-140 ,,4,Autodesk,,,5001 to 10000 ,04-06-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,76000,140000,108000,CA,0,0,0,1,0,0,0,none,above average
+data scientist,60-101 ,,4.6,Beck's Hybrids,,,501 to 1000 ,20-04-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,60000,101000,80500,IN,1,0,0,0,1,0,0,none,below average
+data scientist,82-133 ,,2.8,DrFirst,,,201 to 500 ,22-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,82000,133000,107500,MD,1,0,0,0,1,0,0,none,above average
+data engineer,65-125 ,,4.7,Object Partners,,,51 to 200 ,18-06-1905,Company - Private,,,$25 to $50 million (USD),2,0,0,65000,125000,95000,MN,1,0,0,1,0,0,0,none,below average
+data scientist,91-148 ,,3,L.A. Care Health Plan,,,1001 to 5000 ,19-06-1905,Nonprofit Organization,,,Unknown / Non-Applicable,3,0,0,91000,148000,119500,CA,1,0,0,0,1,0,0,none,above average
+data engineer,95-173 ,,3.2,Red Ventures,,,1001 to 5000 ,22-06-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,95000,173000,134000,NC,0,1,0,1,0,0,0,none,above average
+data scientist,77-124 ,,4.4,Quick Base,,,201 to 500 ,21-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,77000,124000,100500,MA,1,0,0,0,1,0,0,none,below average
+data scientist,80-135 ,,3.5,The E.W. Scripps Company,,,1001 to 5000 ,20-02-1905,Company - Public,,,$500 million to $1 billion (USD),0,0,0,80000,135000,107500,OH,1,0,0,0,1,0,0,none,above average
+data engineer,85-159 ,,4,Upside Business Travel,,,51 to 200 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,85000,159000,122000,DC,1,0,0,1,0,0,0,none,above average
+data engineer,80-105,,4.3,Equity Residential,,,1001 to 5000 ,15-06-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,80000,105000,92500,IL,1,0,0,1,0,0,0,none,below average
+data analyst,43-81 ,,2.3,Synagro,,,501 to 1000 ,08-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,43000,81000,62000,MD,1,0,0,0,0,0,1,none,below average
+other positions,29-50 ,,4,Alliance Source Testing,,,51 to 200 ,22-06-1905,Unknown,,,$25 to $50 million (USD),0,0,0,29000,50000,39500,AL,0,0,0,0,0,0,0,none,below average
+data scientist,82-133 ,,3.6,Accuride International,,,1001 to 5000 ,19-05-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,82000,133000,107500,LA,0,0,0,0,1,0,0,none,above average
+other positions,26-55 ,,3.8,Full Potential Solutions,,,501 to 1000 ,09-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,26000,55000,40500,MO,1,0,0,0,0,1,0,none,below average
+data scientist,61-118 ,,3.7,Visa Inc.,,,10000+ ,11-05-1905,Company - Public,,,$10+ billion (USD),3,0,0,61000,118000,89500,VA,0,1,0,0,1,0,0,none,below average
+data scientist,60-102 ,,4.4,Maven Wave Partners,,,201 to 500 ,30-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,60000,102000,81000,IL,1,0,0,0,1,0,0,none,below average
+data scientist,112-182 ,,4,Novetta,,,501 to 1000 ,04-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,112000,182000,147000,VA,0,1,0,0,1,0,0,none,above average
+data scientist,64-106 ,,3.2,"First Command Financial Services, Inc.",,,1001 to 5000 ,11-05-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,64000,106000,85000,TX,1,0,0,0,1,0,0,none,below average
+other positions,51-112 ,,2.9,Pharmavite,,,1001 to 5000 ,24-05-1905,Company - Private,,,$1 to $2 billion (USD),2,0,0,51000,112000,81500,CA,0,0,0,0,0,0,0,none,below average
+other positions,113-223 ,,3.8,BioMarin Pharmaceutical,,,1001 to 5000 ,19-06-1905,Company - Public,,,$500 million to $1 billion (USD),3,0,0,113000,223000,168000,CA,0,0,0,0,0,0,0,none,above average
+other positions,72-129 ,,4.3,Stratagem Group,,,1 to 50 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,72000,129000,100500,CO,1,0,0,0,0,0,0,none,below average
+data scientist,71-123 ,,3.4,PA Consulting,,,1001 to 5000 ,26-04-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,71000,123000,97000,NY,0,0,0,0,1,0,0,none,below average
+data scientist,64-106 ,,4.1,ManTech,,,5001 to 10000 ,21-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,64000,106000,85000,VA,0,0,0,0,1,0,0,none,below average
+data scientist,118-189 ,,4.3,h2o.ai,,,201 to 500 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,118000,189000,153500,CA,1,0,0,0,1,0,0,none,above average
+data engineer,120-145,,5,Gridiron IT,,,51 to 200 ,09-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,1,120000,145000,132500,FL,0,0,0,1,0,0,0,none,above average
+data engineer,80-120 ,,4.3,Productive Edge,,,51 to 200 ,30-06-1905,Company - Private,,,$10 to $25 million (USD),3,0,0,80000,120000,100000,IL,1,0,0,1,0,0,0,none,below average
+data scientist,80-130 ,,3.7,Evolve Vacation Rental,,,201 to 500 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,80000,130000,105000,CO,1,1,0,0,1,0,0,senior,above average
+data engineer,59-115 ,,4.2,The Church of Jesus Christ of Latter-day Saints,,,10000+ ,###############################################################################################################################################################################################################################################################,Nonprofit Organization,,,Unknown / Non-Applicable,0,0,0,59000,115000,87000,UT,0,0,0,1,0,0,0,none,below average
+data analyst,71-136 ,,4.3,Maximus Real Estate Partners,,,51 to 200 ,05-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,71000,136000,103500,CA,1,0,0,0,0,0,1,none,above average
+research,81-167 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,81000,167000,124000,PA,1,1,1,0,0,0,0,none,above average
+data scientist,49-85 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,49000,85000,67000,WA,1,0,0,0,1,0,0,none,below average
+data engineer,60-114 ,,3.9,AVANADE,,,10000+ ,22-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,60000,114000,87000,DC,0,0,0,1,0,0,0,none,below average
+data scientist,71-204 ,,4.3,h2o.ai,,,201 to 500 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,71000,204000,137500,IL,0,0,0,0,1,0,0,none,above average
+data scientist,75-125 ,,3.8,PatientPoint,,,201 to 500 ,09-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,75000,125000,100000,OH,1,0,0,0,1,0,0,none,below average
+data engineer,77-136 ,,3.8,BlueCross BlueShield of Tennessee,,,5001 to 10000 ,28-04-1905,Nonprofit Organization,,,$5 to $10 billion (USD),0,0,0,77000,136000,106500,TN,1,0,0,1,0,0,0,none,above average
+data scientist,74-123 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,74000,123000,98500,WA,1,1,0,0,1,0,0,none,below average
+data analyst,44-78 ,,4.8,KnowBe4,,,501 to 1000 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,44000,78000,61000,FL,1,1,0,0,0,0,1,none,below average
+other positions,65-148 ,,4.4,KSM Consulting,,,51 to 200 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,65000,148000,106500,IN,1,1,0,0,0,0,0,none,above average
+data engineer,59-110 ,,3.9,Cogo Labs,,,51 to 200 ,27-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,59000,110000,84500,MA,1,0,0,1,0,0,0,none,below average
+other positions,85-134 ,,3.4,Church & Dwight,,,1001 to 5000 ,19-01-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,85000,134000,109500,NJ,1,0,0,0,0,1,0,none,above average
+data scientist,124-204 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,124000,204000,164000,MA,0,0,0,0,1,0,0,none,above average
+data scientist,131-207 ,,3.9,Genentech,,,10000+ ,29-05-1905,Subsidiary or Business Segment,,,$10+ billion (USD),0,0,0,131000,207000,169000,CA,1,1,0,0,1,0,0,senior,above average
+data scientist,110-174 ,,3.8,Juniper Networks,,,5001 to 10000 ,18-06-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,110000,174000,142000,CA,0,1,0,0,1,0,0,none,above average
+other positions,52-101 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,52000,101000,76500,MA,0,0,0,0,0,0,0,none,below average
+data scientist,81-133 ,,3.8,Legal & General America,,,501 to 1000 ,03-06-1905,Company - Private,,,$500 million to $1 billion (USD),0,0,0,81000,133000,107000,MD,1,0,0,0,1,0,0,none,above average
+data scientist,132-211 ,,3.5,Western Digital,,,10000+ ,23-05-1905,Company - Public,,,$10+ billion (USD),2,0,0,132000,211000,171500,CA,1,0,0,0,1,0,0,none,above average
+data scientist,73-119 ,,3.9,Health IQ,,,201 to 500 ,05-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,73000,119000,96000,TX,0,1,0,0,1,0,0,none,below average
+data scientist,110-175 ,,4.2,Nuna,,,51 to 200 ,02-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,110000,175000,142500,CA,1,0,0,0,1,0,0,none,above average
+data engineer,74-140 ,,4.2,The Church of Jesus Christ of Latter-day Saints,,,10000+ ,###############################################################################################################################################################################################################################################################,Nonprofit Organization,,,Unknown / Non-Applicable,0,0,0,74000,140000,107000,UT,0,0,0,1,0,0,0,none,above average
+other positions,100-190 ,,3.5,Sunovion,,,1001 to 5000 ,02-07-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,100000,190000,145000,MA,1,1,0,0,0,0,0,none,above average
+data analyst,43-80 ,,2.9,National Student Clearinghouse,,,201 to 500 ,15-06-1905,Nonprofit Organization,,,$25 to $50 million (USD),3,0,0,43000,80000,61500,VA,1,1,0,0,0,0,1,none,below average
+other positions,17-24 ,,3.6,Tower Health,,,5001 to 10000 ,09-07-1905,Nonprofit Organization,,,Unknown / Non-Applicable,0,1,0,17000,24000,20500,PA,0,0,0,0,0,0,0,none,below average
+data scientist,91-149 ,,2.7,State of Wisconsin Investment Board,,,51 to 200 ,04-05-1905,Government,,,$50 to $100 million (USD),0,0,0,91000,149000,120000,WI,1,0,0,0,1,0,0,none,above average
+other positions,42-82 ,,4.4,Rubius Therapeutics,,,201 to 500 ,05-07-1905,Company - Public,,,$100 to $500 million (USD),0,0,0,42000,82000,62000,MA,1,0,0,0,0,0,0,none,below average
+data scientist,116-185 ,,4,Autodesk,,,5001 to 10000 ,04-06-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,116000,185000,150500,CA,0,1,0,0,1,0,0,none,above average
+other positions,59-116 ,,4.3,OneMagnify,,,201 to 500 ,20-05-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,59000,116000,87500,MI,0,0,0,0,0,1,0,none,below average
+data engineer,48-95 ,,4.2,IZEA,,,51 to 200 ,28-06-1905,Company - Public,,,$25 to $50 million (USD),2,0,0,48000,95000,71500,FL,1,0,0,1,0,0,0,none,below average
+data analyst,31-72 ,,3.6,Vionic Group,,,51 to 200 ,28-06-1905,Subsidiary or Business Segment,,,$100 to $500 million (USD),0,0,0,31000,72000,51500,CA,1,0,0,0,0,0,1,none,below average
+other positions,105-198 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,105000,198000,151500,CA,0,1,0,0,0,0,0,senior,above average
+data analyst,55-100 ,,2.8,Dodge Data & Analytics,,,201 to 500 ,06-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,55000,100000,77500,NJ,1,1,0,0,0,0,1,none,below average
+other positions,98-182 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,98000,182000,140000,MA,0,0,0,0,0,0,0,none,above average
+data scientist,73-124 ,,3.3,Plymouth Rock Assurance,,,1001 to 5000 ,04-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,73000,124000,98500,NJ,0,1,0,0,1,0,0,none,below average
+data scientist,200-250,,-1,CA-One Tech Cloud,,,51 to 200 ,09-07-1905,Company - Private,,,$5 to $10 million (USD),0,0,1,200000,250000,225000,CA,0,0,0,0,1,0,0,none,above average
+other positions,21-34 ,,3.6,Beebe Healthcare,,,1001 to 5000 ,18-04-1905,Nonprofit Organization,,,$100 to $500 million (USD),0,1,0,21000,34000,27500,DE,1,0,0,0,0,0,0,none,below average
+other positions,117-206 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,117000,206000,161500,MA,0,1,0,0,0,0,0,senior,above average
+data scientist,111-183 ,,3.4,Argo Group US,,,1001 to 5000 ,01-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,111000,183000,147000,NY,0,1,0,0,1,0,0,senior,above average
+data analyst,44-78 ,,4.1,Associated Electric Cooperative,,,501 to 1000 ,14-05-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,44000,78000,61000,MO,1,0,0,0,0,0,1,none,below average
+research,81-159 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,81000,159000,120000,PA,1,0,1,0,0,0,0,none,above average
+other positions,83-166 ,,3.2,PennyMac,,,1001 to 5000 ,30-06-1905,Company - Public,,,$500 million to $1 billion (USD),3,0,0,83000,166000,124500,AZ,0,0,0,0,0,0,0,none,above average
+data scientist,114-182 ,,3.9,Zest AI,,,51 to 200 ,01-07-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,114000,182000,148000,CA,1,1,0,0,1,0,0,none,above average
+data analyst,42-76 ,,4.7,DECISIVE ANALYTICS Corporation,,,51 to 200 ,18-06-1905,Company - Private,,,$25 to $50 million (USD),2,0,0,42000,76000,59000,AL,0,0,0,0,0,0,1,none,below average
+data scientist,114-179 ,,3.7,The Hanover Insurance Group,,,5001 to 10000 ,25-01-1905,Company - Public,,,$5 to $10 billion (USD),0,0,0,114000,179000,146500,MA,1,0,0,0,1,0,0,none,above average
+other positions,60-123 ,,2.9,Karyopharm Therapeutics Inc.,,,201 to 500 ,###############################################################################################################################################################################################################################################################,Company - Public,,,Unknown / Non-Applicable,0,0,0,60000,123000,91500,MA,1,0,0,0,0,0,0,none,below average
+other positions,100-166 ,,3,Tempus Labs,,,501 to 1000 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,100000,166000,133000,IL,1,1,0,0,0,0,0,none,above average
+data scientist,108-173 ,,4.7,Recursion Pharmaceuticals,,,51 to 200 ,05-07-1905,Company - Private,,,$1 to $5 million (USD),0,0,0,108000,173000,140500,UT,1,0,0,0,1,0,0,none,above average
+data engineer,48-93 ,,3.7,P2 Energy Solutions,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,0,48000,93000,70500,LA,0,0,0,1,0,0,0,none,below average
+other positions,54-115 ,,3.3,Rochester Regional Health,,,10000+ ,06-07-1905,Hospital,,,$500 million to $1 billion (USD),0,0,0,54000,115000,84500,NY,1,0,0,0,0,0,0,none,below average
+other positions,60-127 ,,4,ClearEdge,,,51 to 200 ,24-06-1905,Company - Private,,,$5 to $10 million (USD),0,0,0,60000,127000,93500,MD,1,0,0,0,0,0,0,none,below average
+other positions,90-179 ,,4.4,Rubius Therapeutics,,,201 to 500 ,05-07-1905,Company - Public,,,$100 to $500 million (USD),0,0,0,90000,179000,134500,MA,1,1,0,0,0,0,0,none,above average
+other positions,138-224 ,,3.9,Tapjoy,,,201 to 500 ,29-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,138000,224000,181000,CA,1,0,0,0,0,0,0,none,above average
+other positions,54-115 ,,3.3,Rochester Regional Health,,,10000+ ,06-07-1905,Hospital,,,$500 million to $1 billion (USD),0,0,0,54000,115000,84500,NY,1,0,0,0,0,0,0,none,below average
+data engineer,190-220,,4.1,Credit Sesame,,,51 to 200 ,02-07-1905,Company - Private,,,$50 to $100 million (USD),3,0,0,190000,220000,205000,CA,1,0,0,1,0,0,0,none,above average
+data analyst,35-62 ,,3.6,San Manuel Casino,,,1001 to 5000 ,08-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,35000,62000,48500,CA,1,0,0,0,0,0,1,none,below average
+other positions,18-25 ,,4,Texas Health Huguley Hospital,,,1001 to 5000 ,30-05-1905,Hospital,,,$50 to $100 million (USD),0,1,0,18000,25000,21500,TX,0,0,0,0,0,0,0,none,below average
+other positions,39-66 ,,2.4,Teasdale Latin Foods,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$100 to $500 million (USD),0,0,0,39000,66000,52500,IL,0,0,0,0,0,0,0,none,below average
+research,81-167 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,81000,167000,124000,PA,1,1,1,0,0,0,0,none,above average
+other positions,42-86 ,,3.5,Central California Alliance for Health,,,501 to 1000 ,18-06-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),0,0,0,42000,86000,64000,CA,1,0,0,0,0,1,0,none,below average
+data engineer,69-127 ,,3,Pilot Flying J Travel Centers LLC,,,10000+ ,11-05-1905,Company - Private,,,$10+ billion (USD),3,0,0,69000,127000,98000,TN,1,1,0,1,0,0,0,senior,below average
+other positions,21-34 ,,3.6,Beebe Healthcare,,,1001 to 5000 ,18-04-1905,Nonprofit Organization,,,$100 to $500 million (USD),0,1,0,21000,34000,27500,DE,0,0,0,0,0,0,0,none,below average
+other positions,40-68 ,,3.3,Palermo's Pizza,,,501 to 1000 ,17-05-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,40000,68000,54000,WI,1,0,0,0,0,0,0,none,below average
+other positions,49-113 ,,2.7,Advanced BioScience Laboratories,,,201 to 500 ,14-05-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,49000,113000,81000,MD,1,0,0,0,0,0,0,none,below average
+data engineer,75-140 ,,3.4,Echo Global Logistics,,,1001 to 5000 ,27-06-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,75000,140000,107500,IL,1,1,0,1,0,0,0,senior,above average
+data scientist,86-139 ,,3.8,Truckstop.com,,,501 to 1000 ,17-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,86000,139000,112500,IL,0,0,0,0,1,0,0,none,above average
+data scientist,66-112 ,,3.7,Lockheed Martin,,,10000+ ,17-06-1905,Company - Public,,,$10+ billion (USD),3,0,0,66000,112000,89000,VA,0,0,0,0,1,0,0,none,below average
+data scientist,76-125 ,,4.8,Acuity Insurance,,,1001 to 5000 ,08-04-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,76000,125000,100500,WI,1,1,1,0,1,0,0,none,below average
+data analyst,44-86 ,,3.8,Fareportal,,,1001 to 5000 ,24-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,44000,86000,65000,NY,1,0,0,0,0,0,1,none,below average
+other positions,15-25 ,,3.4,"Veterans Affairs, Veterans Health Administration",,,10000+ ,13-04-1905,Government,,,Unknown / Non-Applicable,0,1,0,15000,25000,20000,LA,0,0,0,0,0,0,0,none,below average
+data scientist,53-92 ,,4.3,Credera,,,201 to 500 ,21-06-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,0,0,0,53000,92000,72500,TX,1,0,0,0,1,0,0,none,below average
+data analyst,44-78 ,,4.8,KnowBe4,,,501 to 1000 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,44000,78000,61000,FL,1,1,0,0,0,0,1,none,below average
+other positions,85-134 ,,3.4,Church & Dwight,,,1001 to 5000 ,19-01-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,85000,134000,109500,NJ,1,0,0,0,0,1,0,none,above average
+data engineer,59-110 ,,3.9,Cogo Labs,,,51 to 200 ,27-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,59000,110000,84500,MA,1,0,0,1,0,0,0,none,below average
+data scientist,64-111 ,,3.4,Spectrum Communications and Consulting,,,51 to 200 ,14-06-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,64000,111000,87500,IL,1,0,0,0,1,0,0,none,below average
+data analyst,65-120 ,,3.1,NCSOFT,,,1001 to 5000 ,19-06-1905,Company - Public,,,$10+ billion (USD),3,0,0,65000,120000,92500,CA,0,0,0,0,0,0,1,none,below average
+data scientist,60-103 ,,3.2,MITRE,,,5001 to 10000 ,11-05-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,60000,103000,81500,VA,0,0,0,0,1,0,0,none,below average
+data analyst,53-105 ,,4.3,"Dayton Freight Lines, Inc.",,,1001 to 5000 ,03-06-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,53000,105000,79000,OH,1,0,0,0,0,0,1,none,below average
+data scientist,124-204 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,124000,204000,164000,MA,0,0,0,0,1,0,0,none,above average
+data scientist,131-207 ,,3.9,Genentech,,,10000+ ,29-05-1905,Subsidiary or Business Segment,,,$10+ billion (USD),0,0,0,131000,207000,169000,CA,1,1,0,0,1,0,0,senior,above average
+data scientist,110-174 ,,3.8,Juniper Networks,,,5001 to 10000 ,18-06-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,110000,174000,142000,CA,0,1,0,0,1,0,0,none,above average
+data analyst,33-62 ,,2.8,Community Action Partnership of San Luis Obispo,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,Nonprofit Organization,,,$50 to $100 million (USD),0,0,0,33000,62000,47500,CA,0,0,0,0,0,0,1,none,below average
+other positions,52-101 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,52000,101000,76500,MA,0,0,0,0,0,0,0,none,below average
+data analyst,48-90 ,,3.4,TrueAccord,,,51 to 200 ,05-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,48000,90000,69000,CA,1,0,0,0,0,0,1,none,below average
+data analyst,34-64 ,,4,DRB Systems,,,201 to 500 ,06-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,34000,64000,49000,ID,0,0,0,0,0,0,1,none,below average
+data scientist,132-211 ,,3.5,Western Digital,,,10000+ ,23-05-1905,Company - Public,,,$10+ billion (USD),2,0,0,132000,211000,171500,CA,1,0,0,0,1,0,0,none,above average
+data scientist,81-133 ,,3.8,Legal & General America,,,501 to 1000 ,03-06-1905,Company - Private,,,$500 million to $1 billion (USD),0,0,0,81000,133000,107000,MD,1,0,0,0,1,0,0,none,above average
+data analyst,42-76 ,,3.7,Corcentric,,,201 to 500 ,18-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,42000,76000,59000,NJ,1,0,0,0,0,0,1,none,below average
+data scientist,66-111 ,,3.5,U.Group,,,201 to 500 ,11-07-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,66000,111000,88500,IN,0,0,0,0,1,0,0,none,below average
+data engineer,74-140 ,,4.2,The Church of Jesus Christ of Latter-day Saints,,,10000+ ,###############################################################################################################################################################################################################################################################,Nonprofit Organization,,,Unknown / Non-Applicable,0,0,0,74000,140000,107000,UT,0,0,0,1,0,0,0,none,above average
+data scientist,63-110 ,,4,Pfizer,,,10000+ ,22-01-1905,Company - Public,,,$10+ billion (USD),0,0,0,63000,110000,86500,MA,0,0,0,0,1,0,0,none,below average
+data scientist,63-105 ,,4.3,SMC 3,,,51 to 200 ,18-04-1905,Nonprofit Organization,,,$10 to $25 million (USD),0,0,0,63000,105000,84000,KY,0,0,0,0,1,0,0,none,below average
+other positions,91-138 ,,4.7,Systems Evolution Inc.,,,201 to 500 ,14-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,91000,138000,114500,NY,0,0,0,0,0,0,0,none,above average
+other positions,100-190 ,,3.5,Sunovion,,,1001 to 5000 ,02-07-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,100000,190000,145000,MA,1,1,0,0,0,0,0,none,above average
+data engineer,62-114 ,,4.4,Eventbrite,,,1001 to 5000 ,28-06-1905,Company - Public,,,$100 to $500 million (USD),3,0,0,62000,114000,88000,TN,0,0,0,1,0,0,0,none,below average
+data engineer,71-129 ,,4.1,Centro,,,501 to 1000 ,23-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,71000,129000,100000,IL,1,0,0,1,0,0,0,none,below average
+data analyst,43-80 ,,2.9,National Student Clearinghouse,,,201 to 500 ,15-06-1905,Nonprofit Organization,,,$25 to $50 million (USD),3,0,0,43000,80000,61500,VA,1,1,0,0,0,0,1,none,below average
+data scientist,74-119 ,,2.5,comScore,,,1001 to 5000 ,21-06-1905,Company - Public,,,$1 to $2 billion (USD),3,0,0,74000,119000,96500,OR,0,0,0,0,1,0,0,none,below average
+data analyst,55-97 ,,4.2,SullivanCotter,,,201 to 500 ,14-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,55000,97000,76000,MN,0,0,0,0,0,0,1,none,below average
+data scientist,15-16,,3.9,NPD,,,1001 to 5000 ,19-05-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,15000,16000,15500,NY,1,0,0,0,1,0,0,none,below average
+data scientist,61-106 ,,4.3,Bakery Agency,,,1 to 50 ,02-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,61000,106000,83500,TX,1,0,0,0,1,0,0,none,below average
+data scientist,91-149 ,,2.7,State of Wisconsin Investment Board,,,51 to 200 ,04-05-1905,Government,,,$50 to $100 million (USD),0,0,0,91000,149000,120000,WI,1,0,0,0,1,0,0,none,above average
+data scientist,127-199 ,,3.9,Genentech,,,10000+ ,29-05-1905,Subsidiary or Business Segment,,,$10+ billion (USD),0,0,0,127000,199000,163000,CA,1,0,0,0,1,0,0,none,above average
+data analyst,74-126 ,,3.4,Blue Cross & Blue Shield of Rhode Island,,,501 to 1000 ,22-04-1905,Nonprofit Organization,,,Unknown / Non-Applicable,1,0,0,74000,126000,100000,RI,1,0,0,0,0,0,1,none,below average
+research,33-72 ,,3.8,Boys Town,,,1001 to 5000 ,31-03-1905,Nonprofit Organization,,,Unknown / Non-Applicable,3,0,0,33000,72000,52500,NE,1,0,1,0,0,0,0,none,below average
+other positions,17-24 ,,3.6,Tower Health,,,5001 to 10000 ,09-07-1905,Nonprofit Organization,,,Unknown / Non-Applicable,0,1,0,17000,24000,20500,PA,0,0,0,0,0,0,0,none,below average
+data analyst,37-63 ,,3.3,The HSC Health Care System,,,501 to 1000 ,25-02-1905,Nonprofit Organization,,,Unknown / Non-Applicable,0,0,0,37000,63000,50000,DC,1,0,0,0,0,0,1,none,below average
+data engineer,67-119 ,,3.4,Pro-Sphere Tek,,,201 to 500 ,28-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,67000,119000,93000,TX,0,0,0,1,0,0,0,none,below average
+data scientist,72-117 ,,3,Ameritas Life Insurance Corp,,,1001 to 5000 ,01-03-1905,Company - Private,,,$2 to $5 billion (USD),0,0,0,72000,117000,94500,OH,0,0,0,0,1,0,0,none,below average
+data scientist,116-185 ,,4,Autodesk,,,5001 to 10000 ,04-06-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,116000,185000,150500,CA,0,1,0,0,1,0,0,none,above average
+data scientist,78-126 ,,3.7,Genworth,,,1001 to 5000 ,26-06-1905,Company - Public,,,$5 to $10 billion (USD),3,0,0,78000,126000,102000,NC,0,0,0,0,1,0,0,none,above average
+other positions,42-82 ,,4.4,Rubius Therapeutics,,,201 to 500 ,05-07-1905,Company - Public,,,$100 to $500 million (USD),0,0,0,42000,82000,62000,MA,1,0,0,0,0,0,0,none,below average
+other positions,59-116 ,,4.3,OneMagnify,,,201 to 500 ,20-05-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,59000,116000,87500,MI,0,0,0,0,0,1,0,none,below average
+data scientist,63-105 ,,4,Pfizer,,,10000+ ,22-01-1905,Company - Public,,,$10+ billion (USD),0,0,0,63000,105000,84000,CT,0,0,0,0,1,0,0,none,below average
+data scientist,109-177 ,,4,Novetta,,,501 to 1000 ,04-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,109000,177000,143000,VA,0,0,0,0,1,0,0,none,above average
+data scientist,116-194 ,,3.2,"Numeric, LLC",,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,116000,194000,155000,PA,0,1,0,0,1,0,0,senior,above average
+data engineer,48-95 ,,4.2,IZEA,,,51 to 200 ,28-06-1905,Company - Public,,,$25 to $50 million (USD),2,0,0,48000,95000,71500,FL,1,0,0,1,0,0,0,none,below average
+data scientist,83-133 ,,3.9,Trace Data,,,51 to 200 ,22-06-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,83000,133000,108000,CA,0,0,0,0,1,0,0,none,above average
+other positions,105-198 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,105000,198000,151500,CA,0,1,0,0,0,0,0,senior,above average
+data analyst,31-72 ,,3.6,Vionic Group,,,51 to 200 ,28-06-1905,Subsidiary or Business Segment,,,$100 to $500 million (USD),0,0,0,31000,72000,51500,CA,1,0,0,0,0,0,1,none,below average
+other positions,98-182 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,98000,182000,140000,MA,0,0,0,0,0,0,0,none,above average
+data analyst,55-100 ,,2.8,Dodge Data & Analytics,,,201 to 500 ,06-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,55000,100000,77500,NJ,1,1,0,0,0,0,1,none,below average
+data analyst,45-82 ,,4.2,Clearwater Analytics,,,501 to 1000 ,26-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,45000,82000,63500,ID,1,0,0,0,0,0,1,none,below average
+data scientist,83-135 ,,4,"Tekvalley, Corp.",,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,Less than $1 million (USD),0,0,0,83000,135000,109000,CA,0,0,0,0,1,0,0,none,above average
+data scientist,70-122 ,,3.5,BWX Technologies,,,5001 to 10000 ,23-01-1905,Company - Public,,,$500 million to $1 billion (USD),0,0,0,70000,122000,96000,TN,0,0,0,0,1,0,0,none,below average
+data scientist,200-250,,-1,CA-One Tech Cloud,,,51 to 200 ,09-07-1905,Company - Private,,,$5 to $10 million (USD),0,0,1,200000,250000,225000,CA,0,0,0,0,1,0,0,none,above average
+data engineer,70-132 ,,3.2,PennyMac,,,1001 to 5000 ,30-06-1905,Company - Public,,,$500 million to $1 billion (USD),3,0,0,70000,132000,101000,CA,0,0,0,1,0,0,0,none,above average
+data scientist,73-124 ,,3.3,Plymouth Rock Assurance,,,1001 to 5000 ,04-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,73000,124000,98500,NJ,0,1,0,0,1,0,0,none,below average
+data engineer,54-101 ,,3.9,Vermeer,,,1001 to 5000 ,01-05-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,54000,101000,77500,IA,1,0,0,1,0,0,0,none,below average
+other positions,117-206 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,117000,206000,161500,MA,0,1,0,0,0,0,0,senior,above average
+other positions,21-34 ,,3.6,Beebe Healthcare,,,1001 to 5000 ,18-04-1905,Nonprofit Organization,,,$100 to $500 million (USD),0,1,0,21000,34000,27500,DE,1,0,0,0,0,0,0,none,below average
+data scientist,111-183 ,,3.4,Argo Group US,,,1001 to 5000 ,01-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,111000,183000,147000,NY,0,1,0,0,1,0,0,senior,above average
+data scientist,68-112 ,,3.5,L&T Infotech,,,10000+ ,19-06-1905,Company - Public,,,Unknown / Non-Applicable,3,0,0,68000,112000,90000,CA,0,0,0,0,1,0,0,none,below average
+data analyst,42-74 ,,4.3,OceanFirst Financial,,,501 to 1000 ,16-03-1905,Company - Public,,,$5 to $10 billion (USD),0,0,0,42000,74000,58000,NJ,0,0,0,0,0,0,1,none,below average
+data analyst,44-78 ,,4.1,Associated Electric Cooperative,,,501 to 1000 ,14-05-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,44000,78000,61000,MO,1,0,0,0,0,0,1,none,below average
+research,81-159 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,81000,159000,120000,PA,1,0,1,0,0,0,0,none,above average
+data scientist,95-161 ,,3.6,Sotheby's,,,1001 to 5000 ,09-10-1904,Company - Public,,,$500 million to $1 billion (USD),0,0,0,95000,161000,128000,NY,1,0,0,0,1,0,0,none,above average
+data scientist,75-124 ,,3.5,First Tech Federal Credit Union,,,1001 to 5000 ,05-05-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,75000,124000,99500,OR,0,0,0,0,1,0,0,none,below average
+data scientist,72-120 ,,3.6,Amrock,,,1001 to 5000 ,19-06-1905,Company - Private,,,$500 million to $1 billion (USD),0,0,0,72000,120000,96000,MI,1,0,0,0,1,0,0,none,below average
+data scientist,76-126 ,,2.3,Vanda Pharmaceuticals,,,201 to 500 ,25-06-1905,Company - Public,,,$100 to $500 million (USD),0,0,0,76000,126000,101000,DC,1,0,0,0,1,0,0,none,above average
+data scientist,114-182 ,,3.9,Zest AI,,,51 to 200 ,01-07-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,114000,182000,148000,CA,1,1,0,0,1,0,0,none,above average
+data scientist,108-176 ,,4,Novetta,,,501 to 1000 ,04-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,108000,176000,142000,VA,0,1,0,0,1,0,0,none,above average
+data scientist,130-208 ,,4.1,CK-12 Foundation,,,1 to 50 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,130000,208000,169000,CA,1,1,0,0,1,0,0,none,above average
+other positions,83-166 ,,3.2,PennyMac,,,1001 to 5000 ,30-06-1905,Company - Public,,,$500 million to $1 billion (USD),3,0,0,83000,166000,124500,AZ,0,0,0,0,0,0,0,none,above average
+data analyst,42-76 ,,4.7,DECISIVE ANALYTICS Corporation,,,51 to 200 ,18-06-1905,Company - Private,,,$25 to $50 million (USD),2,0,0,42000,76000,59000,AL,0,0,0,0,0,0,1,none,below average
+other positions,37-68 ,,4.2,Opinion Dynamics,,,51 to 200 ,09-06-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,37000,68000,52500,CA,0,0,0,0,0,0,0,none,below average
+data engineer,52-99 ,,4.6,Applied Information Sciences,,,501 to 1000 ,04-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,52000,99000,75500,TX,0,0,0,1,0,0,0,none,below average
+data scientist,105-173 ,,3.7,Swiss Re,,,10000+ ,05-02-1905,Company - Public,,,$10+ billion (USD),3,0,0,105000,173000,139000,NY,0,1,0,0,1,0,0,none,above average
+data engineer,71-134 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,71000,134000,102500,MA,0,0,0,1,0,0,0,none,above average
+other positions,39-82 ,,4.4,WK Dickson,,,201 to 500 ,12-04-1905,Company - Private,,,$25 to $50 million (USD),3,0,0,39000,82000,60500,SC,0,0,0,0,0,0,0,none,below average
+data scientist,114-179 ,,3.7,The Hanover Insurance Group,,,5001 to 10000 ,25-01-1905,Company - Public,,,$5 to $10 billion (USD),0,0,0,114000,179000,146500,MA,1,0,0,0,1,0,0,none,above average
+other positions,88-162 ,,3.9,Genentech,,,10000+ ,29-05-1905,Subsidiary or Business Segment,,,$10+ billion (USD),0,0,0,88000,162000,125000,CA,1,0,0,0,0,0,0,none,above average
+data analyst,60-102 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,60000,102000,81000,MA,1,1,0,0,0,0,1,senior,below average
+other positions,100-166 ,,3,Tempus Labs,,,501 to 1000 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,100000,166000,133000,IL,1,1,0,0,0,0,0,none,above average
+data analyst,55-99 ,,3.4,General Dynamics Information Technology,,,10000+ ,18-06-1905,Subsidiary or Business Segment,,,$10+ billion (USD),3,0,0,55000,99000,77000,DC,0,0,0,0,0,0,1,none,below average
+data engineer,67-117 ,,4.1,ManTech,,,5001 to 10000 ,21-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,67000,117000,92000,VA,1,0,0,1,0,0,0,none,below average
+data scientist,92-150 ,,3.8,Novartis,,,10000+ ,18-06-1905,Company - Public,,,$10+ billion (USD),0,0,0,92000,150000,121000,MA,0,1,0,0,1,0,0,none,above average
+data engineer,116-209 ,,4,Autodesk,,,5001 to 10000 ,04-06-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,116000,209000,162500,CA,0,0,0,1,0,0,0,none,above average
+research,38-82 ,,3.9,Southwest Research Institute,,,1001 to 5000 ,30-04-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),3,0,0,38000,82000,60000,TX,1,0,1,0,0,0,0,none,below average
+other positions,85-90,,-1,Muso,,,201 to 500 ,###############################################################################################################################################################################################################################################################,Nonprofit Organization,,,Unknown / Non-Applicable,0,0,1,85000,90000,87500,CA,1,0,0,0,0,0,0,none,below average
+data engineer,62-119 ,,4.4,SpringML,,,1 to 50 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,62000,119000,90500,IN,0,0,0,1,0,0,0,none,below average
+data scientist,86-143 ,,3.8,Novartis,,,10000+ ,18-06-1905,Company - Public,,,$10+ billion (USD),0,0,0,86000,143000,114500,MA,0,0,0,0,1,0,0,none,above average
+data scientist,93-149 ,,3.8,Juniper Networks,,,5001 to 10000 ,18-06-1905,Company - Public,,,$2 to $5 billion (USD),0,0,0,93000,149000,121000,CA,1,0,0,0,1,0,0,none,above average
+data scientist,84-136 ,,2.2,The Integer Group,,,501 to 1000 ,15-06-1905,Subsidiary or Business Segment,,,$50 to $100 million (USD),3,0,0,84000,136000,110000,TX,0,1,0,0,1,0,0,none,above average
+other positions,60-123 ,,2.9,Karyopharm Therapeutics Inc.,,,201 to 500 ,###############################################################################################################################################################################################################################################################,Company - Public,,,Unknown / Non-Applicable,0,0,0,60000,123000,91500,MA,1,0,0,0,0,0,0,none,below average
+data analyst,52-89 ,,4.1,ManTech,,,5001 to 10000 ,21-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,52000,89000,70500,VA,0,0,0,0,0,0,1,none,below average
+data engineer,48-93 ,,3.7,P2 Energy Solutions,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,0,48000,93000,70500,LA,0,0,0,1,0,0,0,none,below average
+data scientist,56-97 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,56000,97000,76500,WA,1,0,0,0,1,0,0,none,below average
+data engineer,65-119 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,65000,119000,92000,MA,1,0,0,1,0,0,0,none,below average
+data scientist,108-173 ,,4.7,Recursion Pharmaceuticals,,,51 to 200 ,05-07-1905,Company - Private,,,$1 to $5 million (USD),0,0,0,108000,173000,140500,UT,1,0,0,0,1,0,0,none,above average
+other positions,63-101 ,,3.5,Esri,,,1001 to 5000 ,22-05-1905,Company - Private,,,$1 to $2 billion (USD),1,0,0,63000,101000,82000,VA,0,0,0,0,0,0,0,none,below average
+other positions,54-115 ,,3.3,Rochester Regional Health,,,10000+ ,06-07-1905,Hospital,,,$500 million to $1 billion (USD),0,0,0,54000,115000,84500,NY,1,0,0,0,0,0,0,none,below average
+other positions,90-179 ,,4.4,Rubius Therapeutics,,,201 to 500 ,05-07-1905,Company - Public,,,$100 to $500 million (USD),0,0,0,90000,179000,134500,MA,1,1,0,0,0,0,0,none,above average
+data scientist,127-202 ,,3.3,Samba TV,,,201 to 500 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,127000,202000,164500,CA,1,0,0,0,1,0,0,none,above average
+data analyst,31-57 ,,3.4,SV Microwave,,,201 to 500 ,13-06-1905,Company - Public,,,$50 to $100 million (USD),0,0,0,31000,57000,44000,FL,1,0,0,0,0,0,1,none,below average
+other positions,60-127 ,,4,ClearEdge,,,51 to 200 ,24-06-1905,Company - Private,,,$5 to $10 million (USD),0,0,0,60000,127000,93500,MD,1,0,0,0,0,0,0,none,below average
+data engineer,75-143 ,,4.4,SpringML,,,1 to 50 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,75000,143000,109000,VA,0,0,0,1,0,0,0,none,above average
+data engineer,105-194 ,,3.8,Sumo Logic,,,501 to 1000 ,02-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,105000,194000,149500,TX,0,0,0,1,0,0,0,none,above average
+data engineer,45-86 ,,3.5,EAB,,,1001 to 5000 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,45000,86000,65500,DC,1,0,0,1,0,0,0,none,below average
+data scientist,95-154 ,,3.5,Brighthouse Financial,,,1001 to 5000 ,09-07-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,95000,154000,124500,NC,1,1,0,0,1,0,0,none,above average
+data engineer,80-148 ,,2.9,Affinity Solutions,,,51 to 200 ,20-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,80000,148000,114000,CA,0,0,0,1,0,0,0,none,above average
+data analyst,36-62 ,,3.9,Citadel Federal Credit Union,,,501 to 1000 ,20-04-1905,Nonprofit Organization,,,Unknown / Non-Applicable,3,0,0,36000,62000,49000,PA,1,0,0,0,0,0,1,none,below average
+other positions,54-115 ,,3.3,Rochester Regional Health,,,10000+ ,06-07-1905,Hospital,,,$500 million to $1 billion (USD),0,0,0,54000,115000,84500,NY,1,0,0,0,0,0,0,none,below average
+data analyst,50-92 ,,3.7,CALIBRE Systems,,,501 to 1000 ,11-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,50000,92000,71000,VA,1,0,0,0,0,0,1,none,below average
+other positions,67-135 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,67000,135000,101000,MA,0,0,0,0,0,0,0,none,above average
+data scientist,82-132 ,,3.5,Esri,,,1001 to 5000 ,22-05-1905,Company - Private,,,$1 to $2 billion (USD),1,0,0,82000,132000,107000,CA,1,0,0,0,1,0,0,none,above average
+data scientist,85-140 ,,4.7,New England Biolabs,,,201 to 500 ,27-05-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,85000,140000,112500,MA,1,0,0,0,1,0,0,none,above average
+other positions,138-224 ,,3.9,Tapjoy,,,201 to 500 ,29-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,138000,224000,181000,CA,1,0,0,0,0,0,0,none,above average
+data analyst,42-80 ,,3.7,Motorola Solutions,,,10000+ ,11-04-1905,Company - Public,,,$5 to $10 billion (USD),3,0,0,42000,80000,61000,IL,1,0,0,0,0,0,1,none,below average
+data engineer,190-220,,4.1,Credit Sesame,,,51 to 200 ,02-07-1905,Company - Private,,,$50 to $100 million (USD),3,0,0,190000,220000,205000,CA,1,0,0,1,0,0,0,none,above average
+other positions,68-139 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,68000,139000,103500,KY,0,0,0,0,0,0,0,none,above average
+other positions,34-92 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,34000,92000,63000,MA,1,0,0,0,0,1,0,none,below average
+other positions,54-71 ,,3,Infosys,,,10000+ ,03-06-1905,Company - Public,,,$10+ billion (USD),3,0,0,54000,71000,62500,CT,0,0,0,0,0,0,0,none,below average
+data engineer,65-124 ,,3.5,Alignment Healthcare,,,501 to 1000 ,05-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,65000,124000,94500,CA,1,0,0,1,0,0,0,none,below average
+data analyst,35-62 ,,3.6,San Manuel Casino,,,1001 to 5000 ,08-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,35000,62000,48500,CA,1,0,0,0,0,0,1,none,below average
+other positions,109-200 ,,3.5,Sunovion,,,1001 to 5000 ,02-07-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,109000,200000,154500,MA,1,1,0,0,0,0,0,none,above average
+other positions,18-25 ,,4,Texas Health Huguley Hospital,,,1001 to 5000 ,30-05-1905,Hospital,,,$50 to $100 million (USD),0,1,0,18000,25000,21500,TX,0,0,0,0,0,0,0,none,below average
+other positions,61-113 ,,3.7,Cboe Global Markets,,,501 to 1000 ,26-05-1905,Company - Public,,,$500 million to $1 billion (USD),0,0,0,61000,113000,87000,KS,0,0,0,0,0,0,0,none,below average
+other positions,39-66 ,,2.4,Teasdale Latin Foods,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$100 to $500 million (USD),0,0,0,39000,66000,52500,IL,0,0,0,0,0,0,0,none,below average
+data engineer,43-86 ,,3.2,Guidepoint,,,501 to 1000 ,25-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,43000,86000,64500,NY,1,0,0,1,0,0,0,none,below average
+other positions,74-149 ,,2.1,Cerus Corporation,,,201 to 500 ,###############################################################################################################################################################################################################################################################,Company - Public,,,$25 to $50 million (USD),0,0,0,74000,149000,111500,CA,1,0,0,0,0,0,0,none,above average
+data engineer,113-196 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,113000,196000,154500,MA,0,0,0,1,0,0,0,none,above average
+research,81-167 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,81000,167000,124000,PA,1,1,1,0,0,0,0,none,above average
+data scientist,97-160 ,,4.4,Maven Wave Partners,,,201 to 500 ,30-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,97000,160000,128500,IL,1,1,0,0,1,0,0,none,above average
+other positions,24-39 ,,3.7,Vail Health,,,501 to 1000 ,19-05-1905,Hospital,,,$100 to $500 million (USD),0,1,0,24000,39000,31500,CO,1,0,0,0,0,0,0,none,below average
+other positions,42-86 ,,3.5,Central California Alliance for Health,,,501 to 1000 ,18-06-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),0,0,0,42000,86000,64000,CA,1,0,0,0,0,1,0,none,below average
+data engineer,69-127 ,,3,Pilot Flying J Travel Centers LLC,,,10000+ ,11-05-1905,Company - Private,,,$10+ billion (USD),3,0,0,69000,127000,98000,TN,1,1,0,1,0,0,0,senior,below average
+data scientist,110-175 ,,4.2,Nuna,,,51 to 200 ,02-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,110000,175000,142500,CA,1,0,0,0,1,0,0,none,above average
+data scientist,102-172 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,102000,172000,137000,NY,0,1,0,0,1,0,0,none,above average
+data engineer,74-124 ,,4,Pinnacol Assurance,,,501 to 1000 ,29-03-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),0,0,0,74000,124000,99000,CO,1,0,0,1,0,0,0,none,below average
+other positions,40-68 ,,3.3,Palermo's Pizza,,,501 to 1000 ,17-05-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,40000,68000,54000,WI,1,0,0,0,0,0,0,none,below average
+data scientist,108-171 ,,4.4,MathWorks,,,1001 to 5000 ,06-06-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,108000,171000,139500,MA,1,1,0,0,1,0,0,none,above average
+data engineer,76-142 ,,3.4,MetroStar Systems,,,201 to 500 ,21-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,76000,142000,109000,MD,0,0,0,1,0,0,0,none,above average
+other positions,202-306 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,202000,306000,254000,IL,0,0,0,0,0,0,0,none,above average
+other positions,49-97 ,,2.9,Audentes Therapeutics,,,201 to 500 ,04-07-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,3,0,0,49000,97000,73000,CA,0,0,0,0,0,0,0,none,below average
+other positions,49-113 ,,2.7,Advanced BioScience Laboratories,,,201 to 500 ,14-05-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,49000,113000,81000,MD,1,0,0,0,0,0,0,none,below average
+other positions,21-34 ,,3.6,Beebe Healthcare,,,1001 to 5000 ,18-04-1905,Nonprofit Organization,,,$100 to $500 million (USD),0,1,0,21000,34000,27500,DE,0,0,0,0,0,0,0,none,below average
+other positions,65-134 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,65000,134000,99500,NC,1,0,0,0,0,0,0,none,below average
+data analyst,32-59 ,,3.3,National Interstate,,,501 to 1000 ,11-06-1905,Company - Private,,,$500 million to $1 billion (USD),0,0,0,32000,59000,45500,OH,1,0,0,0,0,0,1,none,below average
+data engineer,87-158 ,,4.5,Moser Consulting,,,51 to 200 ,18-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,87000,158000,122500,IN,1,1,0,1,0,0,0,senior,above average
+data scientist,107-173 ,,3.9,TransUnion,,,5001 to 10000 ,21-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,107000,173000,140000,IL,1,1,0,0,1,0,0,none,above average
+other positions,56-99 ,,3.2,MITRE,,,5001 to 10000 ,11-05-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,56000,99000,77500,VA,0,1,0,0,0,0,0,none,below average
+other positions,25-28 ,,3.3,Mcphail Associates,,,1 to 50 ,29-05-1905,Company - Private,,,Unknown / Non-Applicable,0,1,1,25000,28000,26500,MA,1,0,0,0,0,0,0,none,below average
+other positions,80-155 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,80000,155000,117500,NC,1,1,0,0,0,0,0,none,above average
+other positions,43-98 ,,2.4,Crown Bioscience,,,501 to 1000 ,28-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,43000,98000,70500,CA,1,0,0,0,0,0,0,none,below average
+other positions,45-78 ,,4.8,HOVER,,,51 to 200 ,03-07-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,45000,78000,61500,CA,1,0,0,0,0,1,0,none,below average
+other positions,44-96 ,,2.9,Q2 Solutions,,,1001 to 5000 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,44000,96000,70000,NY,0,0,0,0,0,0,0,none,below average
+other positions,50-110 ,,2.9,Q2 Solutions,,,1001 to 5000 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,50000,110000,80000,GA,0,1,0,0,0,0,0,senior,below average
+data engineer,61-119 ,,3.4,Arbella Insurance,,,1001 to 5000 ,10-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,61000,119000,90000,MA,1,0,0,1,0,0,0,none,below average
+research,100-140,,-1,Kronos Bio,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,1,100000,140000,120000,MA,0,0,1,0,0,0,0,none,above average
+other positions,56-91 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,56000,91000,73500,PA,1,0,0,0,0,0,0,none,below average
+data scientist,68-114 ,,3.8,Zimmerman Advertising,,,501 to 1000 ,06-06-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,0,0,0,68000,114000,91000,FL,1,0,0,0,1,0,0,none,below average
+data scientist,150-160,,5,BPA Services,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,1,150000,160000,155000,DC,0,0,0,0,1,0,0,none,above average
+other positions,101-158 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,101000,158000,129500,MA,0,0,0,0,0,0,0,none,above average
+data scientist,125-210 ,,4,Pfizer,,,10000+ ,22-01-1905,Company - Public,,,$10+ billion (USD),0,0,0,125000,210000,167500,NY,1,1,0,0,1,1,0,none,above average
+data analyst,43-77 ,,3.8,Associated Banc-Corp,,,1001 to 5000 ,12-02-1905,Company - Public,,,$1 to $2 billion (USD),3,0,0,43000,77000,60000,WI,1,0,0,0,0,0,1,none,below average
+data scientist,139-221 ,,3.9,Zest AI,,,51 to 200 ,01-07-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,139000,221000,180000,CA,1,0,0,0,1,0,0,none,above average
+data analyst,44-86 ,,3.8,Fareportal,,,1001 to 5000 ,24-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,44000,86000,65000,NY,1,0,0,0,0,0,1,none,below average
+data engineer,78-147 ,,4.3,Genesys,,,5001 to 10000 ,12-06-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,78000,147000,112500,NC,0,1,0,1,0,0,0,none,above average
+data analyst,65-110 ,,1.9,Moda Operandi,,,201 to 500 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,65000,110000,87500,NY,1,1,0,0,0,0,1,none,below average
+other positions,37-66 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,37000,66000,51500,IN,0,0,0,0,0,0,0,none,below average
+other positions,38-64 ,,4.7,QK,,,51 to 200 ,25-05-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,38000,64000,51000,CA,0,0,0,0,0,0,0,none,below average
+other positions,43-82 ,,3.1,Santander,,,10000+ ,29-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,43000,82000,62500,MA,0,0,0,0,0,0,0,none,below average
+data engineer,90-110,,3.4,Tivity Health,,,501 to 1000 ,03-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,90000,110000,100000,AZ,0,1,0,1,0,0,0,senior,below average
+data engineer,61-109 ,,4.4,BRMi,,,51 to 200 ,26-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,61000,109000,85000,VA,0,0,0,1,0,0,0,none,below average
+data scientist,93-151 ,,3.9,Luminar Technologies,,,201 to 500 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,93000,151000,122000,FL,1,1,0,0,1,0,0,none,above average
+other positions,52-81 ,,3.9,"Emtec, Inc.",,,501 to 1000 ,17-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,52000,81000,66500,IL,0,0,0,0,0,0,0,none,below average
+other positions,40-101 ,,4.7,Veterans United Home Loans,,,1001 to 5000 ,24-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,40000,101000,70500,MO,1,0,0,0,0,0,0,none,below average
+data engineer,97-180 ,,4.7,Praetorian,,,51 to 200 ,02-07-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,97000,180000,138500,TX,1,1,0,1,0,0,0,none,above average
+data scientist,81-134 ,,3.4,PA Consulting,,,1001 to 5000 ,26-04-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,81000,134000,107500,MA,0,0,0,0,1,0,0,none,above average
+other positions,84-157 ,,3.8,Agios Pharmaceuticals,,,501 to 1000 ,30-06-1905,Company - Public,,,$50 to $100 million (USD),0,0,0,84000,157000,120500,MA,1,0,0,0,0,0,0,none,above average
+other positions,49-113 ,,2.7,Advanced BioScience Laboratories,,,201 to 500 ,14-05-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,49000,113000,81000,MD,1,0,0,0,0,0,0,none,below average
+other positions,68-139 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,68000,139000,103500,KY,0,0,0,0,0,0,0,none,above average
+data engineer,75-140 ,,3.4,Echo Global Logistics,,,1001 to 5000 ,27-06-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,75000,140000,107500,IL,1,1,0,1,0,0,0,senior,above average
+data engineer,121-203 ,,4,Glassdoor,,,1001 to 5000 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,121000,203000,162000,CA,0,0,0,1,0,0,0,none,above average
+other positions,52-85 ,,3.5,Esri,,,1001 to 5000 ,22-05-1905,Company - Private,,,$1 to $2 billion (USD),1,0,0,52000,85000,68500,CA,1,0,0,0,0,0,0,none,below average
+data scientist,81-140 ,,3.4,Assurant,,,10000+ ,31-05-1905,Company - Public,,,$5 to $10 billion (USD),3,0,0,81000,140000,110500,OH,0,1,0,0,1,0,0,senior,above average
+data scientist,63-99 ,,3.7,Caterpillar,,,10000+ ,08-04-1905,Company - Public,,,$10+ billion (USD),3,0,0,63000,99000,81000,IL,0,0,0,0,1,0,0,none,below average
+data scientist,110-150,,4.3,Equity Residential,,,1001 to 5000 ,15-06-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,110000,150000,130000,IL,1,1,0,0,1,0,0,none,above average
+data engineer,83-148 ,,3.7,F&G,,,201 to 500 ,###############################################################################################################################################################################################################################################################,Subsidiary or Business Segment,,,$100 to $500 million (USD),0,0,0,83000,148000,115500,IA,1,1,0,1,0,0,0,senior,above average
+data scientist,60-101 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,60000,101000,80500,WA,1,1,0,0,1,0,0,none,below average
+data analyst,31-55 ,,4.6,GreatAmerica Financial Services,,,501 to 1000 ,14-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,31000,55000,43000,IA,1,0,0,0,0,0,1,none,below average
+other positions,102-178 ,,4.4,Acceleron Pharma,,,201 to 500 ,25-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,102000,178000,140000,MA,1,0,0,0,0,0,0,none,above average
+other positions,110-130,,-1,Kronos Bio,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,1,110000,130000,120000,MA,0,1,0,0,0,0,0,none,above average
+data analyst,48-85 ,,3,AmeriHealth Caritas,,,5001 to 10000 ,05-06-1905,Company - Private,,,$5 to $10 billion (USD),3,0,0,48000,85000,66500,PA,1,1,0,0,0,0,1,none,below average
+data engineer,66-123 ,,4.7,Strategic Employment Partners,,,51 to 200 ,28-06-1905,Company - Private,,,$1 to $5 million (USD),0,0,0,66000,123000,94500,CA,0,0,0,1,0,0,0,none,below average
+data scientist,92-146 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,92000,146000,119000,WA,0,1,0,0,1,0,0,none,above average
+other positions,21-29 ,,3.2,Catholic Health Initiatives,,,10000+ ,18-06-1905,Nonprofit Organization,,,$10+ billion (USD),2,1,0,21000,29000,25000,NE,0,0,0,0,0,0,0,none,below average
+data analyst,Oct-17,,2.7,FLEETCOR,,,5001 to 10000 ,22-06-1905,Company - Public,,,$2 to $5 billion (USD),0,1,0,10000,17000,13500,TN,0,1,0,0,0,0,1,none,below average
+other positions,150-239 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,150000,239000,194500,IL,0,0,0,0,0,0,0,none,above average
+research,52-91 ,,3.9,Southwest Research Institute,,,1001 to 5000 ,30-04-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),3,0,0,52000,91000,71500,TX,1,0,1,0,0,0,0,senior,below average
+data scientist,82-129,,3.7,Applied Research Laboratories,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,College / University,,,Unknown / Non-Applicable,0,0,0,82000,129000,105500,TX,1,0,0,0,1,0,0,none,above average
+other positions,47-101 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,47000,101000,74000,NC,1,1,0,0,0,0,0,none,below average
+data analyst,49-76 ,,3.7,Raytheon,,,10000+ ,05-04-1905,Company - Public,,,$10+ billion (USD),0,0,0,49000,76000,62500,AL,0,0,0,0,0,0,1,none,below average
+research,43-88 ,,4.3,RTI International,,,1001 to 5000 ,11-05-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),3,0,0,43000,88000,65500,NC,0,1,1,0,0,0,0,none,below average
+other positions,124-199 ,,3.6,TRANZACT,,,1001 to 5000 ,11-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,124000,199000,161500,NJ,1,0,0,0,0,0,0,none,above average
+data analyst,52-93 ,,2.1,United BioSource,,,1001 to 5000 ,25-06-1905,Other Organization,,,$100 to $500 million (USD),2,0,0,52000,93000,72500,PA,1,1,0,0,0,0,1,senior,below average
+data engineer,97-181 ,,3.9,Figure Eight,,,51 to 200 ,30-06-1905,Company - Public,,,$10 to $25 million (USD),0,0,0,97000,181000,139000,CA,1,1,0,1,0,0,0,none,above average
+data engineer,100-173 ,,3.9,Tapjoy,,,201 to 500 ,29-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,100000,173000,136500,CA,1,1,0,1,0,0,0,none,above average
+data scientist,53-96 ,,3.8,Fareportal,,,1001 to 5000 ,24-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,53000,96000,74500,NY,1,0,0,0,1,0,0,none,below average
+other positions,65-96 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,65000,96000,80500,NC,1,1,0,0,0,0,0,none,below average
+data scientist,56-95 ,,3.5,Sartorius,,,5001 to 10000 ,12-02-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,56000,95000,75500,NM,0,0,0,0,1,0,0,none,below average
+data scientist,111-176 ,,4.7,1904labs,,,51 to 200 ,08-07-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,111000,176000,143500,MO,1,0,0,0,1,0,0,none,above average
+data scientist,75-127 ,,5,Royce Geospatial,,,51 to 200 ,06-07-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,75000,127000,101000,VA,0,0,0,0,1,0,0,none,above average
+data engineer,65-119 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,65000,119000,92000,MA,1,0,0,1,0,0,0,none,below average
+data scientist,56-97 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,56000,97000,76500,WA,1,0,0,0,1,0,0,none,below average
+data scientist,108-173 ,,4.7,Recursion Pharmaceuticals,,,51 to 200 ,05-07-1905,Company - Private,,,$1 to $5 million (USD),0,0,0,108000,173000,140500,UT,1,0,0,0,1,0,0,none,above average
+data scientist,94-139 ,,3.6,Citi,,,10000+ ,16-12-1904,Company - Public,,,$10+ billion (USD),0,0,0,94000,139000,116500,NJ,0,0,0,0,1,0,0,none,above average
+other positions,176-289 ,,4.7,Sage Intacct,,,501 to 1000 ,21-06-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,0,0,0,176000,289000,232500,CA,0,0,0,0,0,0,0,none,above average
+data scientist,92-149 ,,3.5,Scale AI,,,51 to 200 ,08-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,92000,149000,120500,CA,1,0,0,0,1,0,0,none,above average
+other positions,63-101 ,,3.5,Esri,,,1001 to 5000 ,22-05-1905,Company - Private,,,$1 to $2 billion (USD),1,0,0,63000,101000,82000,VA,0,0,0,0,0,0,0,none,below average
+other positions,54-115 ,,3.3,Rochester Regional Health,,,10000+ ,06-07-1905,Hospital,,,$500 million to $1 billion (USD),0,0,0,54000,115000,84500,NY,1,0,0,0,0,0,0,none,below average
+data scientist,118-188 ,,2.7,Change Healthcare,,,10000+ ,29-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,118000,188000,153000,CA,0,0,0,0,1,0,0,none,above average
+data scientist,108-146 ,,3.4,MZ,,,501 to 1000 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,108000,146000,127000,CA,1,0,0,0,1,0,0,none,above average
+data scientist,65-106 ,,4.7,HG Insights,,,51 to 200 ,02-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,65000,106000,85500,CA,1,0,0,0,1,0,0,none,below average
+data scientist,55-98 ,,2.8,"1-800-FLOWERS.COM, Inc.",,,1001 to 5000 ,29-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,55000,98000,76500,NY,1,0,0,0,1,0,0,none,below average
+data scientist,94-162 ,,3.5,CBS Interactive,,,1001 to 5000 ,14-06-1905,Subsidiary or Business Segment,,,$500 million to $1 billion (USD),3,0,0,94000,162000,128000,NY,0,0,0,0,1,0,0,none,above average
+data engineer,63-120 ,,3.2,"Numeric, LLC",,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,63000,120000,91500,PA,0,0,0,1,0,0,0,none,below average
+other positions,90-179 ,,4.4,Rubius Therapeutics,,,201 to 500 ,05-07-1905,Company - Public,,,$100 to $500 million (USD),0,0,0,90000,179000,134500,MA,1,1,0,0,0,0,0,none,above average
+data scientist,127-202 ,,3.3,Samba TV,,,201 to 500 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,127000,202000,164500,CA,1,0,0,0,1,0,0,none,above average
+other positions,60-127 ,,4,ClearEdge,,,51 to 200 ,24-06-1905,Company - Private,,,$5 to $10 million (USD),0,0,0,60000,127000,93500,MD,1,0,0,0,0,0,0,none,below average
+data analyst,31-57 ,,3.4,SV Microwave,,,201 to 500 ,13-06-1905,Company - Public,,,$50 to $100 million (USD),0,0,0,31000,57000,44000,FL,1,0,0,0,0,0,1,none,below average
+data engineer,105-194 ,,3.8,Sumo Logic,,,501 to 1000 ,02-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,105000,194000,149500,TX,0,0,0,1,0,0,0,none,above average
+data engineer,45-86 ,,3.5,EAB,,,1001 to 5000 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,45000,86000,65500,DC,1,0,0,1,0,0,0,none,below average
+data engineer,75-143 ,,4.4,SpringML,,,1 to 50 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,75000,143000,109000,VA,0,0,0,1,0,0,0,none,above average
+data engineer,126-228 ,,3.7,Samsung Research America,,,1001 to 5000 ,10-06-1905,Subsidiary or Business Segment,,,$50 to $100 million (USD),3,0,0,126000,228000,177000,CA,1,0,0,1,0,0,0,none,above average
+data scientist,80-134 ,,4.7,Systems & Technology Research,,,201 to 500 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,80000,134000,107000,VA,0,0,0,0,1,0,0,none,above average
+data scientist,120-189 ,,4.1,Netskope,,,501 to 1000 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,120000,189000,154500,CA,1,0,0,0,1,0,0,none,above average
+data scientist,85-142 ,,4,Lorven Technologies Inc,,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,Less than $1 million (USD),0,0,0,85000,142000,113500,CA,0,0,0,0,1,0,0,none,above average
+data scientist,95-154 ,,3.5,Brighthouse Financial,,,1001 to 5000 ,09-07-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,95000,154000,124500,NC,1,1,0,0,1,0,0,none,above average
+data scientist,111-176 ,,2.5,CareDx,,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,1,0,0,111000,176000,143500,CA,1,0,0,0,1,0,0,none,above average
+data scientist,87-140 ,,3.9,Serigor Inc.,,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,Less than $1 million (USD),0,0,0,87000,140000,113500,CA,0,0,0,0,1,0,0,none,above average
+data scientist,76-127 ,,3.4,Leidos,,,10000+ ,22-05-1905,Company - Public,,,$10+ billion (USD),0,0,0,76000,127000,101500,VA,0,0,0,0,1,0,0,none,above average
+data analyst,54-92 ,,3.6,Beckman Coulter Diagnostics,,,10000+ ,18-04-1905,Subsidiary or Business Segment,,,$2 to $5 billion (USD),3,0,0,54000,92000,73000,NY,0,0,0,0,0,0,1,none,below average
+data scientist,61-100 ,,3.5,IHS Markit,,,10000+ ,08-07-1905,Company - Public,,,$2 to $5 billion (USD),2,0,0,61000,100000,80500,NY,0,0,0,0,1,0,0,none,below average
+data scientist,81-140 ,,-1,ALIN,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,0,81000,140000,110500,NY,0,0,0,0,1,0,0,none,above average
+data engineer,80-148 ,,2.9,Affinity Solutions,,,51 to 200 ,20-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,80000,148000,114000,CA,0,0,0,1,0,0,0,none,above average
+data scientist,108-171 ,,3.5,e-IT Professionals Corp.,,,51 to 200 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,108000,171000,139500,CA,0,0,0,0,1,0,0,none,above average
+data scientist,112-179 ,,4.8,TechProjects,,,1 to 50 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,112000,179000,145500,NY,0,0,0,0,1,0,0,none,above average
+data scientist,63-111 ,,4,Biz2Credit Inc,,,201 to 500 ,29-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,63000,111000,87000,NY,1,0,0,0,1,0,0,none,below average
+data scientist,75-126 ,,4.2,PeoplesBank,,,201 to 500 ,27-02-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,75000,126000,100500,MA,1,0,0,0,1,0,0,none,below average
+data scientist,110-184 ,,3.8,Capgemini,,,10000+ ,20-05-1905,Company - Public,,,$10+ billion (USD),3,0,0,110000,184000,147000,NY,0,0,0,0,1,1,0,none,above average
+data engineer,76-145 ,,3.7,GNY Insurance Companies,,,201 to 500 ,28-03-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,76000,145000,110500,NY,1,0,0,1,0,0,0,none,above average
+data analyst,36-62 ,,3.9,Citadel Federal Credit Union,,,501 to 1000 ,20-04-1905,Nonprofit Organization,,,Unknown / Non-Applicable,3,0,0,36000,62000,49000,PA,1,0,0,0,0,0,1,none,below average
+data scientist,70-118 ,,4.6,"Conch Technologies, Inc",,,51 to 200 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,70000,118000,94000,MA,0,0,0,0,1,0,0,none,below average
+data scientist,94-153 ,,4.3,Medidata Solutions,,,1001 to 5000 ,21-06-1905,Company - Public,,,$500 million to $1 billion (USD),1,0,0,94000,153000,123500,NY,1,1,0,0,1,0,0,none,above average
+other positions,54-115 ,,3.3,Rochester Regional Health,,,10000+ ,06-07-1905,Hospital,,,$500 million to $1 billion (USD),0,0,0,54000,115000,84500,NY,1,0,0,0,0,0,0,none,below average
+data analyst,50-92 ,,3.7,CALIBRE Systems,,,501 to 1000 ,11-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,50000,92000,71000,VA,1,0,0,0,0,0,1,none,below average
+data engineer,49-97 ,,4,HP Inc.,,,10000+ ,22-04-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,49000,97000,73000,OR,0,0,0,1,0,0,0,none,below average
+other positions,67-135 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,67000,135000,101000,MA,0,0,0,0,0,0,0,none,above average
+other positions,138-224 ,,3.9,Tapjoy,,,201 to 500 ,29-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,138000,224000,181000,CA,1,0,0,0,0,0,0,none,above average
+data scientist,80-139 ,,3.7,Northrop Grumman,,,10000+ ,22-04-1905,Company - Public,,,$10+ billion (USD),0,0,0,80000,139000,109500,CA,0,0,0,0,1,0,0,none,above average
+data scientist,158-211 ,,3.7,Visa Inc.,,,10000+ ,11-05-1905,Company - Public,,,$10+ billion (USD),3,0,0,158000,211000,184500,WA,0,0,0,0,1,0,0,none,above average
+data scientist,150-180 ,,3.9,Quartet Health,,,201 to 500 ,06-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,150000,180000,165000,NY,1,1,0,0,1,0,0,none,above average
+data analyst,42-80 ,,3.7,Motorola Solutions,,,10000+ ,11-04-1905,Company - Public,,,$5 to $10 billion (USD),3,0,0,42000,80000,61000,IL,1,0,0,0,0,0,1,none,below average
+data engineer,190-220,,4.1,Credit Sesame,,,51 to 200 ,02-07-1905,Company - Private,,,$50 to $100 million (USD),3,0,0,190000,220000,205000,CA,1,0,0,1,0,0,0,none,above average
+data analyst,42-77 ,,3.1,Success Academy Charter Schools,,,1001 to 5000 ,28-06-1905,School / School District,,,$100 to $500 million (USD),0,0,0,42000,77000,59500,NY,1,0,0,0,0,0,1,none,below average
+other positions,68-139 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,68000,139000,103500,KY,0,0,0,0,0,0,0,none,above average
+other positions,54-71 ,,3,Infosys,,,10000+ ,03-06-1905,Company - Public,,,$10+ billion (USD),3,0,0,54000,71000,62500,CT,0,0,0,0,0,0,0,none,below average
+other positions,34-92 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,34000,92000,63000,MA,1,0,0,0,0,1,0,none,below average
+data analyst,47-85 ,,3.6,AXION Healthcare Solutions,,,1 to 50 ,02-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,47000,85000,66000,NY,1,0,0,0,0,0,1,none,below average
+data engineer,65-124 ,,3.5,Alignment Healthcare,,,501 to 1000 ,05-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,65000,124000,94500,CA,1,0,0,1,0,0,0,none,below average
+data scientist,56-95 ,,4.2,ExecOnline,,,51 to 200 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,56000,95000,75500,NY,1,0,0,0,1,0,0,none,below average
+other positions,62-112 ,,4,Mteq,,,501 to 1000 ,07-05-1905,Company - Public,,,$100 to $500 million (USD),2,0,0,62000,112000,87000,VA,0,0,0,0,0,0,0,none,below average
+data scientist,107-173 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,107000,173000,140000,MD,0,1,0,0,1,0,0,none,above average
+data scientist,64-108 ,,3.7,Brillient,,,201 to 500 ,28-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,64000,108000,86000,MD,0,0,0,0,1,0,0,none,below average
+data scientist,89-144 ,,4.4,Entefy,,,1 to 50 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,89000,144000,116500,CA,1,1,0,0,1,0,0,none,above average
+other positions,109-200 ,,3.5,Sunovion,,,1001 to 5000 ,02-07-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,109000,200000,154500,MA,1,1,0,0,0,0,0,none,above average
+other positions,61-113 ,,3.7,Cboe Global Markets,,,501 to 1000 ,26-05-1905,Company - Public,,,$500 million to $1 billion (USD),0,0,0,61000,113000,87000,KS,0,0,0,0,0,0,0,none,below average
+data analyst,35-62 ,,3.6,San Manuel Casino,,,1001 to 5000 ,08-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,35000,62000,48500,CA,1,0,0,0,0,0,1,none,below average
+data engineer,55-105 ,,3.4,Trace3,,,501 to 1000 ,24-06-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,55000,105000,80000,TX,0,0,0,1,0,0,0,none,below average
+other positions,18-25 ,,4,Texas Health Huguley Hospital,,,1001 to 5000 ,30-05-1905,Hospital,,,$50 to $100 million (USD),0,1,0,18000,25000,21500,TX,0,0,0,0,0,0,0,none,below average
+other positions,39-66 ,,2.4,Teasdale Latin Foods,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$100 to $500 million (USD),0,0,0,39000,66000,52500,IL,0,0,0,0,0,0,0,none,below average
+data scientist,135-211 ,,3.7,Northrop Grumman,,,10000+ ,22-04-1905,Company - Public,,,$10+ billion (USD),0,0,0,135000,211000,173000,CA,0,0,0,0,1,0,0,none,above average
+data engineer,57-80 ,,3.5,Saama Technologies Inc,,,501 to 1000 ,19-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,57000,80000,68500,AZ,0,0,0,1,0,0,0,none,below average
+data scientist,129-215 ,,4.4,Two Sigma,,,1001 to 5000 ,23-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,129000,215000,172000,NY,1,0,0,0,1,0,0,none,above average
+data scientist,86-143 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,86000,143000,114500,MA,1,0,0,0,1,0,0,none,above average
+other positions,63-127 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,63000,127000,95000,MD,0,0,0,0,0,0,0,none,below average
+data scientist,50-89 ,,3.2,MITRE,,,5001 to 10000 ,11-05-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,50000,89000,69500,MA,1,0,0,0,1,0,0,none,below average
+data engineer,43-86 ,,3.2,Guidepoint,,,501 to 1000 ,25-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,43000,86000,64500,NY,1,0,0,1,0,0,0,none,below average
+other positions,74-149 ,,2.1,Cerus Corporation,,,201 to 500 ,###############################################################################################################################################################################################################################################################,Company - Public,,,$25 to $50 million (USD),0,0,0,74000,149000,111500,CA,1,0,0,0,0,0,0,none,above average
+data scientist,71-124 ,,4,Strategic Financial Solutions,,,501 to 1000 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,71000,124000,97500,NY,1,0,0,0,1,0,0,none,below average
+data engineer,113-196 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,113000,196000,154500,MA,0,0,0,1,0,0,0,none,above average
+research,81-167 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,81000,167000,124000,PA,1,1,1,0,0,0,0,none,above average
+data scientist,69-121 ,,3.4,"Remedy BPCI Partners, LLC.",,,201 to 500 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,69000,121000,95000,NY,0,0,0,0,1,0,0,none,below average
+data scientist,97-160 ,,4.4,Maven Wave Partners,,,201 to 500 ,30-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,97000,160000,128500,IL,1,1,0,0,1,0,0,none,above average
+data scientist,150-238 ,,3.2,The Climate Corporation,,,501 to 1000 ,28-06-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,3,0,0,150000,238000,194000,CA,1,0,0,0,1,0,0,none,above average
+data scientist,77-132 ,,3.5,Crossix Solutions,,,201 to 500 ,27-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,77000,132000,104500,NY,1,0,0,0,1,0,0,none,above average
+other positions,24-39 ,,3.7,Vail Health,,,501 to 1000 ,19-05-1905,Hospital,,,$100 to $500 million (USD),0,1,0,24000,39000,31500,CO,1,0,0,0,0,0,0,none,below average
+data engineer,59-112 ,,4.2,Clarity Insights,,,201 to 500 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,59000,112000,85500,NC,0,0,0,1,0,0,0,none,below average
+data analyst,35-65 ,,4.2,The Church of Jesus Christ of Latter-day Saints,,,10000+ ,###############################################################################################################################################################################################################################################################,Nonprofit Organization,,,Unknown / Non-Applicable,0,0,0,35000,65000,50000,UT,1,0,0,0,0,0,1,none,below average
+data engineer,79-147 ,,3.1,NCSOFT,,,1001 to 5000 ,19-06-1905,Company - Public,,,$10+ billion (USD),3,0,0,79000,147000,113000,CA,0,0,0,1,0,0,0,none,above average
+other positions,62-119 ,,3.9,GSK,,,10000+ ,03-01-1905,Company - Public,,,$10+ billion (USD),3,0,0,62000,119000,90500,MA,0,0,0,0,0,0,0,none,below average
+data scientist,119-187 ,,4.3,Factual,,,51 to 200 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,1,0,0,119000,187000,153000,CA,1,1,0,0,1,0,0,none,above average
+data analyst,90-157 ,,3.3,TriNet,,,1001 to 5000 ,10-06-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,90000,157000,123500,CA,1,0,0,0,0,0,1,none,above average
+data analyst,32-62 ,,3.9,Signpost,,,201 to 500 ,02-07-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,32000,62000,47000,NY,1,0,0,0,0,0,1,none,below average
+other positions,42-86 ,,3.5,Central California Alliance for Health,,,501 to 1000 ,18-06-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),0,0,0,42000,86000,64000,CA,1,0,0,0,0,1,0,none,below average
+other positions,116-208 ,,4,Adobe,,,10000+ ,04-06-1905,Company - Public,,,$5 to $10 billion (USD),2,0,0,116000,208000,162000,CA,1,0,0,0,0,0,0,none,above average
+data scientist,102-172 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,102000,172000,137000,NY,0,1,0,0,1,0,0,none,above average
+data engineer,69-127 ,,3,Pilot Flying J Travel Centers LLC,,,10000+ ,11-05-1905,Company - Private,,,$10+ billion (USD),3,0,0,69000,127000,98000,TN,1,1,0,1,0,0,0,senior,below average
+data scientist,86-144 ,,3.7,Swiss Re,,,10000+ ,05-02-1905,Company - Public,,,$10+ billion (USD),3,0,0,86000,144000,115000,NY,0,0,0,0,1,0,0,none,above average
+data scientist,102-165 ,,3.5,Sartorius,,,5001 to 10000 ,12-02-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,102000,165000,133500,CO,0,1,0,0,1,0,0,none,above average
+data engineer,74-124 ,,4,Pinnacol Assurance,,,501 to 1000 ,29-03-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),0,0,0,74000,124000,99000,CO,1,0,0,1,0,0,0,none,below average
+other positions,40-68 ,,3.3,Palermo's Pizza,,,501 to 1000 ,17-05-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,40000,68000,54000,WI,1,0,0,0,0,0,0,none,below average
+data engineer,76-142 ,,3.2,Equian LLC,,,1001 to 5000 ,26-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,76000,142000,109000,TN,0,1,0,1,0,0,0,none,above average
+data engineer,76-142 ,,3.4,MetroStar Systems,,,201 to 500 ,21-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,76000,142000,109000,MD,0,0,0,1,0,0,0,none,above average
+data scientist,108-171 ,,4.4,MathWorks,,,1001 to 5000 ,06-06-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,108000,171000,139500,MA,1,1,0,0,1,0,0,none,above average
+other positions,202-306 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,202000,306000,254000,IL,0,0,0,0,0,0,0,none,above average
+other positions,91-159 ,,3.2,Information Builders,,,1001 to 5000 ,28-05-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,91000,159000,125000,NY,1,0,0,0,0,0,0,none,above average
+other positions,80-133 ,,3.8,Novartis,,,10000+ ,18-06-1905,Company - Public,,,$10+ billion (USD),0,0,0,80000,133000,106500,MA,0,1,0,0,0,0,0,senior,above average
+other positions,49-97 ,,2.9,Audentes Therapeutics,,,201 to 500 ,04-07-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,3,0,0,49000,97000,73000,CA,0,0,0,0,0,0,0,none,below average
+other positions,49-113 ,,2.7,Advanced BioScience Laboratories,,,201 to 500 ,14-05-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,49000,113000,81000,MD,1,0,0,0,0,0,0,none,below average
+other positions,21-34 ,,3.6,Beebe Healthcare,,,1001 to 5000 ,18-04-1905,Nonprofit Organization,,,$100 to $500 million (USD),0,1,0,21000,34000,27500,DE,0,0,0,0,0,0,0,none,below average
+other positions,65-134 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,65000,134000,99500,NC,1,0,0,0,0,0,0,none,below average
+data analyst,32-59 ,,3.3,National Interstate,,,501 to 1000 ,11-06-1905,Company - Private,,,$500 million to $1 billion (USD),0,0,0,32000,59000,45500,OH,1,0,0,0,0,0,1,none,below average
+data analyst,39-69 ,,3.7,The Hanover Insurance Group,,,5001 to 10000 ,25-01-1905,Company - Public,,,$5 to $10 billion (USD),0,0,0,39000,69000,54000,MA,1,0,0,0,0,0,1,none,below average
+data engineer,87-158 ,,4.5,Moser Consulting,,,51 to 200 ,18-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,87000,158000,122500,IN,1,1,0,1,0,0,0,senior,above average
+data analyst,27-48 ,,3,Greenway Health,,,1001 to 5000 ,30-05-1905,Subsidiary or Business Segment,,,$100 to $500 million (USD),3,0,0,27000,48000,37500,FL,1,0,0,0,0,0,1,none,below average
+data analyst,36-71 ,,3.8,Fareportal,,,1001 to 5000 ,24-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,36000,71000,53500,NY,1,0,0,0,0,0,1,none,below average
+data scientist,107-173 ,,3.9,TransUnion,,,5001 to 10000 ,21-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,107000,173000,140000,IL,1,1,0,0,1,0,0,none,above average
+other positions,56-99 ,,3.2,MITRE,,,5001 to 10000 ,11-05-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,56000,99000,77500,VA,0,1,0,0,0,0,0,none,below average
+other positions,25-28 ,,3.3,Mcphail Associates,,,1 to 50 ,29-05-1905,Company - Private,,,Unknown / Non-Applicable,0,1,1,25000,28000,26500,MA,1,0,0,0,0,0,0,none,below average
+other positions,80-155 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,80000,155000,117500,NC,1,1,0,0,0,0,0,none,above average
+other positions,43-98 ,,2.4,Crown Bioscience,,,501 to 1000 ,28-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,43000,98000,70500,CA,1,0,0,0,0,0,0,none,below average
+other positions,44-96 ,,2.9,Q2 Solutions,,,1001 to 5000 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,44000,96000,70000,NY,0,0,0,0,0,0,0,none,below average
+other positions,45-78 ,,4.8,HOVER,,,51 to 200 ,03-07-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,45000,78000,61500,CA,1,0,0,0,0,1,0,none,below average
+other positions,50-110 ,,2.9,Q2 Solutions,,,1001 to 5000 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,50000,110000,80000,GA,0,1,0,0,0,0,0,senior,below average
+data scientist,60-99 ,,4.7,Oversight Systems,,,51 to 200 ,25-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,60000,99000,79500,GA,1,0,0,0,1,0,0,none,below average
+data scientist,130-206 ,,4.7,Confluent,,,501 to 1000 ,06-07-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,130000,206000,168000,CA,1,0,0,0,1,0,0,none,above average
+data engineer,61-119 ,,3.4,Arbella Insurance,,,1001 to 5000 ,10-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,61000,119000,90000,MA,1,0,0,1,0,0,0,none,below average
+research,100-140,,-1,Kronos Bio,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,1,100000,140000,120000,MA,0,0,1,0,0,0,0,none,above average
+data analyst,99-178 ,,3.9,Life360,,,51 to 200 ,30-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,99000,178000,138500,CA,1,1,0,0,0,0,1,none,above average
+other positions,86-137 ,,3.6,IQVIA,,,10000+ ,09-07-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,86000,137000,111500,PA,0,0,0,0,0,0,0,none,above average
+other positions,37-100 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,37000,100000,68500,MA,0,0,0,0,0,1,0,none,below average
+other positions,58-111 ,,3.9,GSK,,,10000+ ,03-01-1905,Company - Public,,,$10+ billion (USD),3,0,0,58000,111000,84500,MA,0,1,0,0,0,0,0,senior,below average
+data engineer,72-133 ,,4.4,Eventbrite,,,1001 to 5000 ,28-06-1905,Company - Public,,,$100 to $500 million (USD),3,0,0,72000,133000,102500,TN,0,1,0,1,0,0,0,none,above average
+other positions,56-91 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,56000,91000,73500,PA,1,0,0,0,0,0,0,none,below average
+research,61-126 ,,3.6,Riverside Research Institute,,,501 to 1000 ,20-05-1905,Nonprofit Organization,,,$50 to $100 million (USD),0,0,0,61000,126000,93500,OH,0,0,1,0,0,0,0,none,below average
+other positions,95-160 ,,3.2,"Numeric, LLC",,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,95000,160000,127500,PA,0,0,0,0,0,1,0,none,above average
+data analyst,53-91 ,,4.2,The Church of Jesus Christ of Latter-day Saints,,,10000+ ,###############################################################################################################################################################################################################################################################,Nonprofit Organization,,,Unknown / Non-Applicable,0,0,0,53000,91000,72000,UT,1,0,0,0,0,0,1,none,below average
+other positions,101-158 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,101000,158000,129500,MA,0,0,0,0,0,0,0,none,above average
+data analyst,33-61 ,,3.1,Icon Health and Fitness,,,1001 to 5000 ,30-05-1905,Company - Private,,,$500 million to $1 billion (USD),3,0,0,33000,61000,47000,UT,1,0,0,0,0,0,1,none,below average
+data engineer,44-86 ,,3.8,Shipt,,,501 to 1000 ,06-07-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,0,0,0,44000,86000,65000,AL,1,0,0,1,0,0,0,none,below average
+data analyst,43-77 ,,3.8,Associated Banc-Corp,,,1001 to 5000 ,12-02-1905,Company - Public,,,$1 to $2 billion (USD),3,0,0,43000,77000,60000,WI,1,0,0,0,0,0,1,none,below average
+data scientist,125-210 ,,4,Pfizer,,,10000+ ,22-01-1905,Company - Public,,,$10+ billion (USD),0,0,0,125000,210000,167500,NY,1,1,0,0,1,1,0,none,above average
+data analyst,44-86 ,,3.8,Fareportal,,,1001 to 5000 ,24-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,44000,86000,65000,NY,1,0,0,0,0,0,1,none,below average
+data analyst,69-119 ,,4,Novetta,,,501 to 1000 ,04-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,69000,119000,94000,VA,0,1,0,0,0,0,1,none,below average
+data analyst,65-110 ,,1.9,Moda Operandi,,,201 to 500 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,65000,110000,87500,NY,1,1,0,0,0,0,1,none,below average
+data engineer,67-127 ,,4,Novetta,,,501 to 1000 ,04-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,67000,127000,97000,VA,0,1,0,1,0,0,0,none,below average
+data engineer,78-147 ,,4.3,Genesys,,,5001 to 10000 ,12-06-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,78000,147000,112500,NC,0,1,0,1,0,0,0,none,above average
+other positions,66-117 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,66000,117000,91500,MA,0,0,0,0,0,0,0,none,below average
+other positions,37-66 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,37000,66000,51500,IN,0,0,0,0,0,0,0,none,below average
+data scientist,86-143 ,,3.8,Novartis,,,10000+ ,18-06-1905,Company - Public,,,$10+ billion (USD),0,0,0,86000,143000,114500,MA,0,0,0,0,1,0,0,none,above average
+data scientist,84-146 ,,4.3,USEReady,,,201 to 500 ,03-07-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,84000,146000,115000,NY,1,0,0,0,1,0,0,none,above average
+other positions,50-98 ,,3.2,"Numeric, LLC",,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,50000,98000,74000,PA,0,0,0,0,0,1,0,none,below average
+other positions,38-64 ,,4.7,QK,,,51 to 200 ,25-05-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,38000,64000,51000,CA,0,0,0,0,0,0,0,none,below average
+data engineer,90-110,,3.4,Tivity Health,,,501 to 1000 ,03-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,90000,110000,100000,AZ,0,1,0,1,0,0,0,senior,below average
+data scientist,92-150 ,,3.8,Novartis,,,10000+ ,18-06-1905,Company - Public,,,$10+ billion (USD),0,0,0,92000,150000,121000,MA,0,1,0,0,1,0,0,none,above average
+data analyst,90-153 ,,4.5,Demandbase,,,201 to 500 ,28-06-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,90000,153000,121500,CA,1,1,0,0,0,0,1,none,above average
+other positions,43-82 ,,3.1,Santander,,,10000+ ,29-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,43000,82000,62500,MA,0,0,0,0,0,0,0,none,below average
+other positions,100-135,,-1,Monte Rosa Therapeutics,,,-1,###############################################################################################################################################################################################################################################################,-1,,,-1,0,0,1,100000,135000,117500,MA,0,0,0,0,0,0,0,none,above average
+data scientist,93-151 ,,3.9,Luminar Technologies,,,201 to 500 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,93000,151000,122000,FL,1,1,0,0,1,0,0,none,above average
+data engineer,61-109 ,,4.4,BRMi,,,51 to 200 ,26-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,61000,109000,85000,VA,0,0,0,1,0,0,0,none,below average
+data engineer,42-79 ,,3.4,IntraEdge,,,501 to 1000 ,24-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,42000,79000,60500,AZ,0,0,0,1,0,0,0,none,below average
+data scientist,139-221 ,,3.9,Zest AI,,,51 to 200 ,01-07-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,139000,221000,180000,CA,1,0,0,0,1,0,0,none,above average
+other positions,40-101 ,,4.7,Veterans United Home Loans,,,1001 to 5000 ,24-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,40000,101000,70500,MO,1,0,0,0,0,0,0,none,below average
+data engineer,84-153 ,,3.3,Peraton,,,1001 to 5000 ,09-07-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,84000,153000,118500,VA,0,0,0,1,0,0,0,none,above average
+other positions,52-81 ,,3.9,"Emtec, Inc.",,,501 to 1000 ,17-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,52000,81000,66500,IL,0,0,0,0,0,0,0,none,below average
+data scientist,81-134 ,,3.4,PA Consulting,,,1001 to 5000 ,26-04-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,81000,134000,107500,MA,0,0,0,0,1,0,0,none,above average
+data engineer,97-180 ,,4.7,Praetorian,,,51 to 200 ,02-07-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,97000,180000,138500,TX,1,1,0,1,0,0,0,none,above average
+other positions,49-113 ,,2.7,Advanced BioScience Laboratories,,,201 to 500 ,14-05-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,49000,113000,81000,MD,1,0,0,0,0,0,0,none,below average
+data analyst,44-73 ,,3.8,COUNTRY Financial,,,1001 to 5000 ,08-04-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,44000,73000,58500,IL,1,0,0,1,0,0,1,none,below average
+data engineer,75-140 ,,3.4,Echo Global Logistics,,,1001 to 5000 ,27-06-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,75000,140000,107500,IL,1,1,0,1,0,0,0,senior,above average
+other positions,84-157 ,,3.8,Agios Pharmaceuticals,,,501 to 1000 ,30-06-1905,Company - Public,,,$50 to $100 million (USD),0,0,0,84000,157000,120500,MA,1,0,0,0,0,0,0,none,above average
+other positions,40-87 ,,3.9,Tapjoy,,,201 to 500 ,29-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,40000,87000,63500,CA,1,0,0,0,0,1,0,none,below average
+other positions,68-139 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,68000,139000,103500,KY,0,0,0,0,0,0,0,none,above average
+data scientist,72-142 ,,4.1,Mentor Graphics,,,5001 to 10000 ,03-06-1905,Company - Public,,,$1 to $2 billion (USD),3,0,0,72000,142000,107000,CA,0,0,0,0,1,0,0,none,above average
+data engineer,74-137 ,,3.7,Maxar Technologies,,,5001 to 10000 ,###############################################################################################################################################################################################################################################################,Company - Public,,,$2 to $5 billion (USD),0,0,0,74000,137000,105500,VA,0,0,0,1,0,0,0,none,above average
+data engineer,57-109 ,,2.8,ICW Group,,,501 to 1000 ,25-05-1905,Company - Private,,,$500 million to $1 billion (USD),3,0,0,57000,109000,83000,CA,1,0,0,1,0,0,0,none,below average
+data engineer,121-203 ,,4,Glassdoor,,,1001 to 5000 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,121000,203000,162000,CA,0,0,0,1,0,0,0,none,above average
+other positions,52-85 ,,3.5,Esri,,,1001 to 5000 ,22-05-1905,Company - Private,,,$1 to $2 billion (USD),1,0,0,52000,85000,68500,CA,1,0,0,0,0,0,0,none,below average
+data scientist,81-140 ,,3.4,Assurant,,,10000+ ,31-05-1905,Company - Public,,,$5 to $10 billion (USD),3,0,0,81000,140000,110500,OH,0,1,0,0,1,0,0,senior,above average
+data engineer,83-148 ,,3.7,F&G,,,201 to 500 ,###############################################################################################################################################################################################################################################################,Subsidiary or Business Segment,,,$100 to $500 million (USD),0,0,0,83000,148000,115500,IA,1,1,0,1,0,0,0,senior,above average
+research,59-116 ,,3,Exelixis,,,501 to 1000 ,16-06-1905,Company - Public,,,Unknown / Non-Applicable,3,0,0,59000,116000,87500,CA,1,0,1,0,0,0,0,none,below average
+data scientist,60-101 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,60000,101000,80500,WA,1,1,0,0,1,0,0,none,below average
+data analyst,31-55 ,,4.6,GreatAmerica Financial Services,,,501 to 1000 ,14-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,31000,55000,43000,IA,1,0,0,0,0,0,1,none,below average
+other positions,102-178 ,,4.4,Acceleron Pharma,,,201 to 500 ,25-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,102000,178000,140000,MA,1,0,0,0,0,0,0,none,above average
+other positions,136-208 ,,4,Pfizer,,,10000+ ,22-01-1905,Company - Public,,,$10+ billion (USD),0,0,0,136000,208000,172000,MA,0,0,0,0,0,0,0,none,above average
+other positions,110-130,,-1,Kronos Bio,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,1,110000,130000,120000,MA,0,1,0,0,0,0,0,none,above average
+data analyst,48-85 ,,3,AmeriHealth Caritas,,,5001 to 10000 ,05-06-1905,Company - Private,,,$5 to $10 billion (USD),3,0,0,48000,85000,66500,PA,1,1,0,0,0,0,1,none,below average
+other positions,71-129 ,,3,Exelixis,,,501 to 1000 ,16-06-1905,Company - Public,,,Unknown / Non-Applicable,3,0,0,71000,129000,100000,CA,1,1,0,0,0,0,0,none,below average
+data engineer,66-123 ,,4.7,Strategic Employment Partners,,,51 to 200 ,28-06-1905,Company - Private,,,$1 to $5 million (USD),0,0,0,66000,123000,94500,CA,0,0,0,1,0,0,0,none,below average
+other positions,171-272 ,,4.2,Grand Rounds,,,501 to 1000 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,171000,272000,221500,CA,1,0,0,0,0,1,0,none,above average
+data scientist,92-146 ,,3.8,PNNL,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,92000,146000,119000,WA,0,1,0,0,1,0,0,none,above average
+data engineer,65-126 ,,3.5,"SPINS, LLC",,,201 to 500 ,17-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,65000,126000,95500,IL,1,0,0,1,0,0,0,none,below average
+other positions,150-239 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,150000,239000,194500,IL,0,0,0,0,0,0,0,none,above average
+other positions,21-29 ,,3.2,Catholic Health Initiatives,,,10000+ ,18-06-1905,Nonprofit Organization,,,$10+ billion (USD),2,1,0,21000,29000,25000,NE,0,0,0,0,0,0,0,none,below average
+data analyst,Oct-17,,2.7,FLEETCOR,,,5001 to 10000 ,22-06-1905,Company - Public,,,$2 to $5 billion (USD),0,1,0,10000,17000,13500,TN,0,1,0,0,0,0,1,none,below average
+data analyst,118-228 ,,3.3,DTCC,,,1001 to 5000 ,26-05-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,118000,228000,173000,NJ,0,1,0,0,0,0,1,none,above average
+data scientist,82-129,,3.7,Applied Research Laboratories,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,College / University,,,Unknown / Non-Applicable,0,0,0,82000,129000,105500,TX,1,0,0,0,1,0,0,none,above average
+research,52-91 ,,3.9,Southwest Research Institute,,,1001 to 5000 ,30-04-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),3,0,0,52000,91000,71500,TX,1,0,1,0,0,0,0,senior,below average
+other positions,47-101 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,47000,101000,74000,NC,1,1,0,0,0,0,0,none,below average
+data analyst,49-76 ,,3.7,Raytheon,,,10000+ ,05-04-1905,Company - Public,,,$10+ billion (USD),0,0,0,49000,76000,62500,AL,0,0,0,0,0,0,1,none,below average
+research,43-88 ,,4.3,RTI International,,,1001 to 5000 ,11-05-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),3,0,0,43000,88000,65500,NC,0,1,1,0,0,0,0,none,below average
+data scientist,61-109 ,,3.8,DICK'S Sporting Goods - Corporate,,,10000+ ,01-05-1905,Company - Public,,,$5 to $10 billion (USD),3,0,0,61000,109000,85000,PA,1,0,0,0,1,0,0,none,below average
+data scientist,113-182 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,113000,182000,147500,MD,0,0,0,0,1,0,0,none,above average
+other positions,124-199 ,,3.6,TRANZACT,,,1001 to 5000 ,11-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,124000,199000,161500,NJ,1,0,0,0,0,0,0,none,above average
+data engineer,58-104 ,,3.7,Carilion Clinic,,,10000+ ,13-03-1905,Nonprofit Organization,,,$1 to $2 billion (USD),0,0,0,58000,104000,81000,VA,1,0,0,1,0,0,0,none,below average
+data analyst,52-93 ,,2.1,United BioSource,,,1001 to 5000 ,25-06-1905,Other Organization,,,$100 to $500 million (USD),2,0,0,52000,93000,72500,PA,1,1,0,0,0,0,1,senior,below average
+data engineer,97-181 ,,3.9,Figure Eight,,,51 to 200 ,30-06-1905,Company - Public,,,$10 to $25 million (USD),0,0,0,97000,181000,139000,CA,1,1,0,1,0,0,0,none,above average
+data engineer,100-173 ,,3.9,Tapjoy,,,201 to 500 ,29-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,100000,173000,136500,CA,1,1,0,1,0,0,0,none,above average
+data analyst,58-108 ,,3.2,DoubleVerify,,,201 to 500 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,58000,108000,83000,NY,1,1,0,0,0,0,1,senior,below average
+research,81-161 ,,4.6,Mitsubishi Electric Research Labs,,,51 to 200 ,13-06-1905,Subsidiary or Business Segment,,,$5 to $10 million (USD),3,0,0,81000,161000,121000,MA,1,1,1,0,0,0,0,none,above average
+data scientist,53-96 ,,3.8,Fareportal,,,1001 to 5000 ,24-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,53000,96000,74500,NY,1,0,0,0,1,0,0,none,below average
+data analyst,61-110 ,,2.2,"Rodan and Fields, LLC",,,501 to 1000 ,24-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,61000,110000,85500,CA,1,0,0,0,0,0,1,none,below average
+other positions,65-96 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,65000,96000,80500,NC,1,1,0,0,0,0,0,none,below average
+research,115-220 ,,4.6,Mitsubishi Electric Research Labs,,,51 to 200 ,13-06-1905,Subsidiary or Business Segment,,,$5 to $10 million (USD),3,0,0,115000,220000,167500,MA,1,0,1,0,0,0,0,none,above average
+research,71-144 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,71000,144000,107500,PA,1,0,1,0,0,0,0,none,above average
+data analyst,32-57 ,,3.4,DESC,,,501 to 1000 ,01-06-1905,Nonprofit Organization,,,$25 to $50 million (USD),0,0,0,32000,57000,44500,WA,1,0,0,0,0,0,1,none,below average
+data analyst,79-136 ,,3.3,Johns Hopkins Health Care,,,1001 to 5000 ,03-03-1905,Company - Private,,,$500 million to $1 billion (USD),3,0,0,79000,136000,107500,MD,0,1,0,0,0,0,1,none,above average
+research,120-145,,-1,Kronos Bio,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,1,120000,145000,132500,MA,0,0,1,0,0,0,0,none,above average
+data analyst,50-89 ,,3.7,Community Behavioral Health,,,201 to 500 ,16-06-1905,Company - Private,,,$500 million to $1 billion (USD),0,0,0,50000,89000,69500,PA,0,1,0,0,0,0,1,senior,below average
+other positions,68-129 ,,3.5,Western Digital,,,10000+ ,23-05-1905,Company - Public,,,$10+ billion (USD),2,0,0,68000,129000,98500,CA,0,1,0,0,0,0,0,none,below average
+other positions,48-113 ,,2.7,Advanced BioScience Laboratories,,,201 to 500 ,14-05-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,48000,113000,80500,MD,1,0,0,0,0,0,0,none,below average
+other positions,27-47 ,,3.8,FORMA THERAPEUTICS,,,51 to 200 ,30-06-1905,Company - Private,,,$10 to $25 million (USD),0,1,0,27000,47000,37000,MA,1,0,0,0,0,0,0,none,below average
+other positions,74-124 ,,3.7,Raytheon,,,10000+ ,05-04-1905,Company - Public,,,$10+ billion (USD),0,0,0,74000,124000,99000,MD,0,0,0,0,0,0,0,none,below average
+other positions,68-125 ,,3.8,Agios Pharmaceuticals,,,501 to 1000 ,30-06-1905,Company - Public,,,$50 to $100 million (USD),0,0,0,68000,125000,96500,MA,1,0,0,0,0,1,0,none,below average
+other positions,39-67 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,39000,67000,53000,MA,1,0,0,0,0,0,0,none,below average
+data engineer,71-135 ,,2.7,Bridg,,,1 to 50 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,71000,135000,103000,CA,1,1,0,1,0,0,0,senior,above average
+data scientist,107-172 ,,3.8,Bill.com,,,501 to 1000 ,28-06-1905,Company - Public,,,$50 to $100 million (USD),0,0,0,107000,172000,139500,CA,1,1,0,0,1,0,0,none,above average
+data scientist,49-85 ,,3.8,Pacific Northwest National Laboratory,,,1001 to 5000 ,18-05-1905,Government,,,$500 million to $1 billion (USD),3,0,0,49000,85000,67000,WA,1,0,0,0,1,0,0,none,below average
+other positions,54-71 ,,3,Infosys,,,10000+ ,03-06-1905,Company - Public,,,$10+ billion (USD),3,0,0,54000,71000,62500,CT,0,0,0,0,0,0,0,none,below average
+other positions,61-123 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,61000,123000,92000,MD,0,0,0,0,0,0,0,none,below average
+data analyst,47-85 ,,3.6,AXION Healthcare Solutions,,,1 to 50 ,02-06-1905,Company - Private,,,$10 to $25 million (USD),2,0,0,47000,85000,66000,NY,1,0,0,0,0,0,1,none,below average
+data engineer,65-124 ,,3.5,Alignment Healthcare,,,501 to 1000 ,05-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,65000,124000,94500,CA,1,0,0,1,0,0,0,none,below average
+data scientist,87-141 ,,3.6,TRANZACT,,,1001 to 5000 ,11-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,87000,141000,114000,NJ,1,0,0,0,1,0,0,none,above average
+data scientist,56-95 ,,4.2,ExecOnline,,,51 to 200 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,56000,95000,75500,NY,1,0,0,0,1,0,0,none,below average
+data scientist,71-121 ,,3.5,Charter Spectrum,,,1 to 50 ,###############################################################################################################################################################################################################################################################,School / School District,,,$5 to $10 million (USD),0,0,0,71000,121000,96000,MO,0,0,0,0,1,0,0,none,below average
+other positions,62-112 ,,4,Mteq,,,501 to 1000 ,07-05-1905,Company - Public,,,$100 to $500 million (USD),2,0,0,62000,112000,87000,VA,0,0,0,0,0,0,0,none,below average
+data scientist,64-108 ,,3.7,Brillient,,,201 to 500 ,28-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,64000,108000,86000,MD,0,0,0,0,1,0,0,none,below average
+data scientist,89-144 ,,4.4,Entefy,,,1 to 50 ,04-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,89000,144000,116500,CA,1,1,0,0,1,0,0,none,above average
+other positions,109-200 ,,3.5,Sunovion,,,1001 to 5000 ,02-07-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,109000,200000,154500,MA,1,1,0,0,0,0,0,none,above average
+data analyst,35-62 ,,3.6,San Manuel Casino,,,1001 to 5000 ,08-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,35000,62000,48500,CA,1,0,0,0,0,0,1,none,below average
+other positions,61-113 ,,3.7,Cboe Global Markets,,,501 to 1000 ,26-05-1905,Company - Public,,,$500 million to $1 billion (USD),0,0,0,61000,113000,87000,KS,0,0,0,0,0,0,0,none,below average
+data engineer,55-105 ,,3.4,Trace3,,,501 to 1000 ,24-06-1905,Company - Private,,,$1 to $2 billion (USD),3,0,0,55000,105000,80000,TX,0,0,0,1,0,0,0,none,below average
+other positions,18-25 ,,4,Texas Health Huguley Hospital,,,1001 to 5000 ,30-05-1905,Hospital,,,$50 to $100 million (USD),0,1,0,18000,25000,21500,TX,0,0,0,0,0,0,0,none,below average
+data scientist,135-211 ,,3.7,Northrop Grumman,,,10000+ ,22-04-1905,Company - Public,,,$10+ billion (USD),0,0,0,135000,211000,173000,CA,0,0,0,0,1,0,0,none,above average
+other positions,39-66 ,,2.4,Teasdale Latin Foods,,,501 to 1000 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$100 to $500 million (USD),0,0,0,39000,66000,52500,IL,0,0,0,0,0,0,0,none,below average
+data engineer,57-80 ,,3.5,Saama Technologies Inc,,,501 to 1000 ,19-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,57000,80000,68500,AZ,0,0,0,1,0,0,0,none,below average
+other positions,63-127 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,63000,127000,95000,MD,0,0,0,0,0,0,0,none,below average
+data scientist,50-89 ,,3.2,MITRE,,,5001 to 10000 ,11-05-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,50000,89000,69500,MA,1,0,0,0,1,0,0,none,below average
+data scientist,82-132 ,,4.4,The David J. Joseph Company,,,201 to 500 ,27-02-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,0,0,0,82000,132000,107000,OH,1,1,0,0,1,0,0,none,above average
+data scientist,85-139 ,,3.9,The Buffalo Group,,,501 to 1000 ,02-07-1905,Company - Private,,,$100 to $500 million (USD),3,0,0,85000,139000,112000,VA,0,0,0,0,1,0,0,senior,above average
+data scientist,72-121 ,,3.4,CompQsoft,,,51 to 200 ,19-06-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,72000,121000,96500,DC,0,0,0,0,1,0,0,none,below average
+other positions,74-149 ,,2.1,Cerus Corporation,,,201 to 500 ,###############################################################################################################################################################################################################################################################,Company - Public,,,$25 to $50 million (USD),0,0,0,74000,149000,111500,CA,1,0,0,0,0,0,0,none,above average
+data engineer,113-196 ,,3.7,Takeda Pharmaceuticals,,,10000+ ,15-11-1904,Company - Public,,,$10+ billion (USD),3,0,0,113000,196000,154500,MA,0,0,0,1,0,0,0,none,above average
+data scientist,69-121 ,,3.4,"Remedy BPCI Partners, LLC.",,,201 to 500 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,69000,121000,95000,NY,0,0,0,0,1,0,0,none,below average
+data scientist,71-124 ,,4,Strategic Financial Solutions,,,501 to 1000 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,2,0,0,71000,124000,97500,NY,1,0,0,0,1,0,0,none,below average
+data scientist,97-160 ,,4.4,Maven Wave Partners,,,201 to 500 ,30-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,97000,160000,128500,IL,1,1,0,0,1,0,0,none,above average
+research,81-167 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,81000,167000,124000,PA,1,1,1,0,0,0,0,none,above average
+data scientist,150-238 ,,3.2,The Climate Corporation,,,501 to 1000 ,28-06-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,3,0,0,150000,238000,194000,CA,1,0,0,0,1,0,0,none,above average
+other positions,24-39 ,,3.7,Vail Health,,,501 to 1000 ,19-05-1905,Hospital,,,$100 to $500 million (USD),0,1,0,24000,39000,31500,CO,1,0,0,0,0,0,0,none,below average
+data analyst,35-65 ,,4.2,The Church of Jesus Christ of Latter-day Saints,,,10000+ ,###############################################################################################################################################################################################################################################################,Nonprofit Organization,,,Unknown / Non-Applicable,0,0,0,35000,65000,50000,UT,1,0,0,0,0,0,1,none,below average
+data scientist,77-132 ,,3.5,Crossix Solutions,,,201 to 500 ,27-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,77000,132000,104500,NY,1,0,0,0,1,0,0,none,above average
+data scientist,51-88 ,,4.3,Solugenix Corporation,,,201 to 500 ,22-05-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,51000,88000,69500,AZ,0,0,0,0,1,0,0,none,below average
+data scientist,101-141 ,,2.6,West Coast University,,,10000+ ,19-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,101000,141000,121000,CA,1,0,0,0,1,0,0,none,above average
+data engineer,59-112 ,,4.2,Clarity Insights,,,201 to 500 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,59000,112000,85500,NC,0,0,0,1,0,0,0,none,below average
+data engineer,79-147 ,,3.1,NCSOFT,,,1001 to 5000 ,19-06-1905,Company - Public,,,$10+ billion (USD),3,0,0,79000,147000,113000,CA,0,0,0,1,0,0,0,none,above average
+data scientist,79-127 ,,3.8,SoftBank Robotics,,,201 to 500 ,27-06-1905,Subsidiary or Business Segment,,,$25 to $50 million (USD),0,0,0,79000,127000,103000,CA,0,0,0,0,1,0,0,none,above average
+other positions,62-119 ,,3.9,GSK,,,10000+ ,03-01-1905,Company - Public,,,$10+ billion (USD),3,0,0,62000,119000,90500,MA,0,0,0,0,0,0,0,none,below average
+data scientist,119-187 ,,4.3,Factual,,,51 to 200 ,30-06-1905,Company - Private,,,Unknown / Non-Applicable,1,0,0,119000,187000,153000,CA,1,1,0,0,1,0,0,none,above average
+data scientist,81-132 ,,3.2,MITRE,,,5001 to 10000 ,11-05-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,81000,132000,106500,VA,0,0,0,0,1,0,0,junior,above average
+data scientist,120-140,,5,SkySync,,,51 to 200 ,03-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,1,120000,140000,130000,MI,1,1,0,0,1,0,0,none,above average
+data analyst,90-157 ,,3.3,TriNet,,,1001 to 5000 ,10-06-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,90000,157000,123500,CA,1,0,0,0,0,0,1,none,above average
+other positions,63-110 ,,4.3,Medidata Solutions,,,1001 to 5000 ,21-06-1905,Company - Public,,,$500 million to $1 billion (USD),1,0,0,63000,110000,86500,NY,1,0,0,0,0,0,0,none,below average
+other positions,42-86 ,,3.5,Central California Alliance for Health,,,501 to 1000 ,18-06-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),0,0,0,42000,86000,64000,CA,1,0,0,0,0,1,0,none,below average
+data analyst,32-62 ,,3.9,Signpost,,,201 to 500 ,02-07-1905,Company - Private,,,$10 to $25 million (USD),0,0,0,32000,62000,47000,NY,1,0,0,0,0,0,1,none,below average
+other positions,116-208 ,,4,Adobe,,,10000+ ,04-06-1905,Company - Public,,,$5 to $10 billion (USD),2,0,0,116000,208000,162000,CA,1,0,0,0,0,0,0,none,above average
+data scientist,107-173 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,107000,173000,140000,MD,0,1,0,0,1,0,0,none,above average
+data scientist,65-113 ,,3.4,"DatamanUSA, LLC",,,51 to 200 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,65000,113000,89000,WA,0,0,0,0,1,0,0,none,below average
+data engineer,69-127 ,,3,Pilot Flying J Travel Centers LLC,,,10000+ ,11-05-1905,Company - Private,,,$10+ billion (USD),3,0,0,69000,127000,98000,TN,1,1,0,1,0,0,0,senior,below average
+data scientist,102-172 ,,3.9,AstraZeneca,,,10000+ ,27-03-1905,Company - Public,,,$10+ billion (USD),3,0,0,102000,172000,137000,NY,0,1,0,0,1,0,0,none,above average
+data engineer,74-124 ,,4,Pinnacol Assurance,,,501 to 1000 ,29-03-1905,Nonprofit Organization,,,$500 million to $1 billion (USD),0,0,0,74000,124000,99000,CO,1,0,0,1,0,0,0,none,below average
+other positions,40-68 ,,3.3,Palermo's Pizza,,,501 to 1000 ,17-05-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,40000,68000,54000,WI,1,0,0,0,0,0,0,none,below average
+data engineer,76-142 ,,3.2,Equian LLC,,,1001 to 5000 ,26-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,76000,142000,109000,TN,0,1,0,1,0,0,0,none,above average
+data engineer,76-142 ,,3.4,MetroStar Systems,,,201 to 500 ,21-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,76000,142000,109000,MD,0,0,0,1,0,0,0,none,above average
+data scientist,108-171 ,,4.4,MathWorks,,,1001 to 5000 ,06-06-1905,Company - Private,,,$1 to $2 billion (USD),0,0,0,108000,171000,139500,MA,1,1,0,0,1,0,0,none,above average
+other positions,202-306 ,,3.3,Liberty Mutual Insurance,,,10000+ ,26-03-1905,Company - Private,,,$10+ billion (USD),3,0,0,202000,306000,254000,IL,0,0,0,0,0,0,0,none,above average
+other positions,91-159 ,,3.2,Information Builders,,,1001 to 5000 ,28-05-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,91000,159000,125000,NY,1,0,0,0,0,0,0,none,above average
+other positions,80-133 ,,3.8,Novartis,,,10000+ ,18-06-1905,Company - Public,,,$10+ billion (USD),0,0,0,80000,133000,106500,MA,0,1,0,0,0,0,0,senior,above average
+other positions,21-34 ,,3.6,Beebe Healthcare,,,1001 to 5000 ,18-04-1905,Nonprofit Organization,,,$100 to $500 million (USD),0,1,0,21000,34000,27500,DE,0,0,0,0,0,0,0,none,below average
+other positions,49-97 ,,2.9,Audentes Therapeutics,,,201 to 500 ,04-07-1905,Subsidiary or Business Segment,,,Unknown / Non-Applicable,3,0,0,49000,97000,73000,CA,0,0,0,0,0,0,0,none,below average
+other positions,49-113 ,,2.7,Advanced BioScience Laboratories,,,201 to 500 ,14-05-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,49000,113000,81000,MD,1,0,0,0,0,0,0,none,below average
+data scientist,96-161 ,,3.2,"Numeric, LLC",,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,96000,161000,128500,PA,0,0,0,0,1,0,0,none,above average
+other positions,65-134 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,65000,134000,99500,NC,1,0,0,0,0,0,0,none,below average
+other positions,59-125 ,,4,23andMe,,,501 to 1000 ,28-06-1905,Company - Private,,,Unknown / Non-Applicable,3,0,0,59000,125000,92000,CA,0,1,0,0,0,0,0,senior,below average
+data analyst,32-59 ,,3.3,National Interstate,,,501 to 1000 ,11-06-1905,Company - Private,,,$500 million to $1 billion (USD),0,0,0,32000,59000,45500,OH,1,0,0,0,0,0,1,none,below average
+data engineer,87-158 ,,4.5,Moser Consulting,,,51 to 200 ,18-06-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,87000,158000,122500,IN,1,1,0,1,0,0,0,senior,above average
+data analyst,27-48 ,,3,Greenway Health,,,1001 to 5000 ,30-05-1905,Subsidiary or Business Segment,,,$100 to $500 million (USD),3,0,0,27000,48000,37500,FL,1,0,0,0,0,0,1,none,below average
+data analyst,39-69 ,,3.7,The Hanover Insurance Group,,,5001 to 10000 ,25-01-1905,Company - Public,,,$5 to $10 billion (USD),0,0,0,39000,69000,54000,MA,1,0,0,0,0,0,1,none,below average
+data analyst,36-71 ,,3.8,Fareportal,,,1001 to 5000 ,24-06-1905,Company - Private,,,$2 to $5 billion (USD),3,0,0,36000,71000,53500,NY,1,0,0,0,0,0,1,none,below average
+data scientist,107-173 ,,3.9,TransUnion,,,5001 to 10000 ,21-05-1905,Company - Public,,,$1 to $2 billion (USD),0,0,0,107000,173000,140000,IL,1,1,0,0,1,0,0,none,above average
+other positions,56-99 ,,3.2,MITRE,,,5001 to 10000 ,11-05-1905,Nonprofit Organization,,,$1 to $2 billion (USD),3,0,0,56000,99000,77500,VA,0,1,0,0,0,0,0,none,below average
+other positions,25-28 ,,3.3,Mcphail Associates,,,1 to 50 ,29-05-1905,Company - Private,,,Unknown / Non-Applicable,0,1,1,25000,28000,26500,MA,1,0,0,0,0,0,0,none,below average
+other positions,80-155 ,,3.1,Reynolds American,,,5001 to 10000 ,17-02-1905,Company - Private,,,$10+ billion (USD),0,0,0,80000,155000,117500,NC,1,1,0,0,0,0,0,none,above average
+other positions,43-98 ,,2.4,Crown Bioscience,,,501 to 1000 ,28-06-1905,Company - Private,,,$50 to $100 million (USD),0,0,0,43000,98000,70500,CA,1,0,0,0,0,0,0,none,below average
+other positions,45-78 ,,4.8,HOVER,,,51 to 200 ,03-07-1905,Company - Private,,,$25 to $50 million (USD),0,0,0,45000,78000,61500,CA,1,0,0,0,0,1,0,none,below average
+other positions,50-110 ,,2.9,Q2 Solutions,,,1001 to 5000 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,50000,110000,80000,GA,0,1,0,0,0,0,0,senior,below average
+other positions,44-96 ,,2.9,Q2 Solutions,,,1001 to 5000 ,07-07-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,44000,96000,70000,NY,0,0,0,0,0,0,0,none,below average
+research,100-140,,-1,Kronos Bio,,,Unknown,###############################################################################################################################################################################################################################################################,Company - Private,,,Unknown / Non-Applicable,0,0,1,100000,140000,120000,MA,0,0,1,0,0,0,0,none,above average
+data engineer,61-119 ,,3.4,Arbella Insurance,,,1001 to 5000 ,10-06-1905,Company - Private,,,$100 to $500 million (USD),0,0,0,61000,119000,90000,MA,1,0,0,1,0,0,0,none,below average
+other positions,80-142 ,,4.1,CK-12 Foundation,,,1 to 50 ,29-06-1905,Company - Private,,,Unknown / Non-Applicable,0,0,0,80000,142000,111000,CA,1,0,0,0,0,0,0,none,above average
+data analyst,99-178 ,,3.9,Life360,,,51 to 200 ,30-06-1905,Company - Public,,,Unknown / Non-Applicable,0,0,0,99000,178000,138500,CA,1,1,0,0,0,0,1,none,above average
+other positions,37-100 ,,3.6,MassMutual,,,5001 to 10000 ,24-01-1905,Company - Private,,,$10+ billion (USD),0,0,0,37000,100000,68500,MA,0,0,0,0,0,1,0,none,below average
+data engineer,62-113 ,,3.9,Fivestars,,,201 to 500 ,03-07-1905,Company - Private,,,$100 to $500 million (USD),2,0,0,62000,113000,87500,CA,1,0,0,1,0,0,0,none,below average
+other positions,86-137 ,,3.6,IQVIA,,,10000+ ,09-07-1905,Company - Public,,,$2 to $5 billion (USD),3,0,0,86000,137000,111500,PA,0,0,0,0,0,0,0,none,above average
+other positions,58-111 ,,3.9,GSK,,,10000+ ,03-01-1905,Company - Public,,,$10+ billion (USD),3,0,0,58000,111000,84500,MA,0,1,0,0,0,0,0,senior,below average
+data engineer,72-133 ,,4.4,Eventbrite,,,1001 to 5000 ,28-06-1905,Company - Public,,,$100 to $500 million (USD),3,0,0,72000,133000,102500,TN,0,1,0,1,0,0,0,none,above average
+other positions,56-91 ,,2.6,Software Engineering Institute,,,501 to 1000 ,06-06-1905,College / University,,,Unknown / Non-Applicable,0,0,0,56000,91000,73500,PA,1,0,0,0,0,0,0,none,below average
+other positions,95-160 ,,3.2,"Numeric, LLC",,,1 to 50 ,###############################################################################################################################################################################################################################################################,Company - Private,,,$5 to $10 million (USD),0,0,0,95000,160000,127500,PA,0,0,0,0,0,1,0,none,above average
+research,61-126 ,,3.6,Riverside Research Institute,,,501 to 1000 ,20-05-1905,Nonprofit Organization,,,$50 to $100 million (USD),0,0,0,61000,126000,93500,OH,0,0,1,0,0,0,0,none,below average
