@@ -2,7 +2,7 @@
 * The main aim of this project is to analyze the job market for Data Scientists, Data Analysts, Data Engineers, Research Scientists in the United States of America.
 * The project helped three friends get a job as a Data Scientist and Analysts.
 * Built a custom Tableau Dashboard to better understand the salaries and market.
-
+* **Inspiration taken from https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
 ## Code and Resources Used 
 **Python Version:** 3.7  
 
